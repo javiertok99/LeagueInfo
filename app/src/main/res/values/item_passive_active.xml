@@ -1,0 +1,664 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="abyssalmask">
+        <item>UNIQUE – ETERNITY: Restore mana equal to 15% of damage taken from champions. Restore health equal to 20% of mana spent, up to 25 health per cast, while toggle abilities can heal for up to 25 per second.</item>
+        <item>UNIQUE Aura: Nearby enemy champions take 15% more magic damage.</item>
+    </string-array>
+    <string-array name="adaptivehelm">
+        <item>UNIQUE: Taking magic damage from a spell or effect reduces all subsequent magic damage taken from that spell or effect by 20% for 4 seconds. Multiple sources of magic damage can have this effect active at any one time and the duration is tracked seperately per source</item>
+    </string-array>
+    <string-array name="aegisofthelegion">
+        <item>No UNIQUE passives and actives</item>
+    </string-array>
+    <string-array name="aetherwisp">
+        <item>UNIQUE: +5% movement speed</item>
+    </string-array>
+    <string-array name="amplifyingtome">
+        <item>No UNIQUE passives and actives</item>
+    </string-array>
+    <string-array name="ancientcoin">
+        <item>UNIQUE – FAVOR: Nearby enemy minions, killed by any ally other than you, will sometimes drop a coin that can be picked up to either grant 25 gold or restore 6% missing mana (minimum 10). Cannon minions will drop a coin as long as you don't kill them.</item>
+        <item>UNIQUE – QUEST: Earn 500 gold using this item and upgrade to Nomad's Medallion. REWARD: Permanently upgrades Nomad's Medallion to Nomad's Eye and Remnant of the Ascended to Eye of Ascension, giving them the WARDING active with respectively 3 and 4 wards in stock.</item>
+    </string-array>
+    <string-array name="archangelsstaff">
+        <item>UNIQUE – HASTE: Grants an additional 10% cooldown reduction.</item>
+        <item>UNIQUE – AWE: Grants bonus ability power equal to 1% maximum mana. Refunds 25% of mana spent.</item>
+        <item>UNIQUE – MANA CHARGE: Grants a charge every 4 seconds, up to 3 charges. Each mana expenditure consumes a charge and grants +8 mana, up to a maximum of 750 mana.</item>
+        <item>Transforms into Seraph's Embrace at +750 mana.</item>
+    </string-array>
+    <string-array name="ardentcenser">
+        <item>UNIQUE: +8% movement speed</item>
+        <item>UNIQUE: Heals and shields on allied champions (excluding yourself) enhance you and them with FRENZY for 6 seconds. FRENZY: Grants +10% – 30% (based on target's level) attack speed and 5 – 20 (based on target's level) bonus on-hit magic damage.</item>
+    </string-array>
+    <string-array name="athenesunholygrail">
+        <item>UNIQUE: Gain 25% of the premitigation damage dealt to champions as Blood Charges, up to 100 - 250 (based on level). Healing or shielding another ally consumes charges equal to 100% of the heal or shield, to heal them, up to the original effect amount.</item>
+        <item>UNIQUE – DISSONANCE: Gain +5 ability power for every additional 25% base mana regeneration. Disables HARMONY on your other items.</item>
+    </string-array>
+    <string-array name="bamiscinder">
+        <item>UNIQUE – IMMOLATE: Deals 6 - 23 (based on level) magic damage per second to nearby enemies. Deals 「 100% bonus 」 magic damage to minions and monsters (325 range).</item>
+    </string-array>
+    <string-array name="bannerofcommand">
+        <item>UNIQUE – POINT RUNNER: Builds up to 20% bonus movement speed over 2 seconds while near turrets, fallen turrets and Void Gates.</item>
+        <item>UNIQUE – PROMOTE: Greatly increases the power of a lane minion and grants it immunity to magic damage (120 second cooldown) (1200 range).</item>
+    </string-array>
+    <string-array name="bansheesveil">
+        <item>UNIQUE: Grants a spell shield that blocks the next enemy ability. This shield refreshes after no damage is taken from enemy champions for 40 seconds.</item>
+    </string-array>
+    <string-array name="berserkergreaves">
+        <item>UNIQUE – ENHANCED MOVEMENT: +45 flat movement speed</item>
+    </string-array>
+    <string-array name="bfsword">
+        <item>No UNIQUE passives and actives</item>
+    </string-array>
+    <string-array name="bilgewatercutlass">
+        <item>UNIQUE: Deals 100 magic damage and slows the target enemy champion by 25% for 2 seconds (550 range) (90 second cooldown).</item>
+    </string-array>
+    <string-array name="bladeoftheruinedking">
+        <item>UNIQUE: Basic attacks deal 8% of the target's current health (min 15) bonus on-hit physical damage (max 60 against minions and monsters).</item>
+        <item>UNIQUE: Deals 100 magic damage and steals 25% of the target's movement speed for 3 seconds (550 range) (90 second cooldown).</item>
+    </string-array>
+    <string-array name="blastingwand">
+        <item>No UNIQUE passives and actives</item>
+    </string-array>
+    <string-array name="bootsofmobility">
+        <item>UNIQUE – ENHANCED MOVEMENT: +25 flat movement speed. Increases to +115 flat movement speed when out-of-combat.</item>
+    </string-array>
+    <string-array name="bootsofspeed">
+        <item>UNIQUE – ENHANCED MOVEMENT: +25 flat movement speed</item>
+    </string-array>
+    <string-array name="bootsofswiftness">
+        <item>UNIQUE – ENHANCED MOVEMENT: +55 flat movement speed</item>
+        <item>UNIQUE – SLOW RESIST: Reduces the effectiveness of Slow icon slows by 25%.</item>
+    </string-array>
+    <string-array name="bramblevest">
+        <item>UNIQUE – THORNS: Upon being hit by a basic attack, reflects 3 (+ 10% bonus armor) magic damage, while also inflicting Grievous Wounds icon Grievous Wounds on the attacker for 1 second.</item>
+    </string-array>
+    <string-array name="brawlersgloves">
+        <item>No UNIQUE passives and actives</item>
+    </string-array>
+    <string-array name="catalystofaeons">
+        <item>UNIQUE – ETERNITY: Restore mana equal to 15% of damage taken from champions. Restore health equal to 20% of mana spent, up to 15 health per cast, while toggle abilities can heal for up to 15 per second.</item>
+    </string-array>
+    <string-array name="caulfieldswarhammer">
+        <item>caulfieldswarhammer</item>
+        <item>caulfieldswarhammer</item>
+        <item>caulfieldswarhammer</item>
+        <item>caulfieldswarhammer</item>
+    </string-array>
+    <string-array name="chainvest">
+        <item>chainvest</item>
+        <item>chainvest</item>
+        <item>chainvest</item>
+        <item>chainvest</item>
+    </string-array>
+    <string-array name="chaliceofharmony">
+        <item>UNIQUE – HARMONY: Gain +25% base health regeneration for every additional 25% base mana regeneration.</item>
+    </string-array>
+    <string-array name="cloakofagility">
+        <item>cloakofagility</item>
+        <item>cloakofagility</item>
+        <item>cloakofagility</item>
+        <item>cloakofagility</item>
+    </string-array>
+    <string-array name="clotharmor">
+        <item>clotharmor</item>
+        <item>clotharmor</item>
+        <item>clotharmor</item>
+        <item>clotharmor</item>
+    </string-array>
+    <string-array name="controlward">
+        <item>controlward</item>
+        <item>controlward</item>
+        <item>controlward</item>
+        <item>controlward</item>
+    </string-array>
+    <string-array name="corruptingpotion">
+        <item>Holds up to 3 charges that refill upon visiting the shop.</item>
+        <item>TOUCH OF CORRUPTION: Abilities and basic attacks apply a burn that damages enemy champions for 15 - 30 (based on level) bonus magic damage over 3 seconds. Bonus damage is halved for area of effect and damage over time effects.</item>
+        <item>Corrupting Potion can be used even at full health and mana.</item>
+    </string-array>
+    <string-array name="crystallinebracer">
+        <item>crystallinebracer</item>
+        <item>crystallinebracer</item>
+        <item>crystallinebracer</item>
+        <item>crystallinebracer</item>
+    </string-array>
+    <string-array name="cull">
+        <item>UNIQUE: Killing a minion grants +1 gold, up to a maximum of +100 gold.</item>
+        <item>After having killed 100 minions, grants an additional +350 gold and permanently disables this passive.</item>
+    </string-array>
+    <string-array name="dagger">
+        <item>dagger</item>
+        <item>dagger</item>
+        <item>dagger</item>
+        <item>dagger</item>
+    </string-array>
+    <string-array name="deadmansplate">
+        <item>UNIQUE – DREADNOUGHT: Generates a maximum of 100 Momentum stacks by moving, which grant up to 60 bonus movement speed. Momentum decays while immobilized or pacified.</item>
+        <item>UNIQUE – CRUSHING BLOW: Basic attacks discharge all stacks to deal (1 per stack) on-hit bonus magic damage, up to 100. Basic attacks at 100 stacks also slow by 50% for 1 second.</item>
+        <item>On Ranged role ranged champions, CRUSHING BLOW cannot slow. However, Momentum will still discharge on-hit.</item>
+    </string-array>
+    <string-array name="deathsdance">
+        <item>UNIQUE: Instantly heal for 15% of all physical damage dealt. Area of effect physical damage only heals 5% for every unit affected.</item>
+        <item>UNIQUE: Stores 30% of all physical and magic damage received, and is taken as damage over time true damage instead, dealing one-third of the stored damage every second.</item>
+    </string-array>
+    <string-array name="doransblade">
+        <item>doransblade</item>
+        <item>doransblade</item>
+        <item>doransblade</item>
+        <item>doransblade</item>
+    </string-array>
+    <string-array name="doransring">
+        <item>UNIQUE: Restores 4 mana upon killing an unit.</item>
+    </string-array>
+    <string-array name="doransshield">
+        <item>+6 flat health regeneration per 5 seconds.</item>
+        <item>Basic attacks deal an additional 5 physical damage to minions on hit.</item>
+        <item>UNIQUE: Restores 20 health over 10 seconds after taking damage from an enemy champion.</item>
+    </string-array>
+    <string-array name="duskbladeofdraktharr">
+        <item>UNIQUE: +18 Lethality (11.2 - 18 (based on level) armor penetration)</item>
+        <item>UNIQUE – NIGHTSTALKER: After being unseen for at least 1 second, your next basic attack against an enemy champion deals 30 - 200 (based on level) bonus on-hit physical damage and slows by 99% for 0.25 seconds. The enhanced attack lasts 5 seconds after being seen by an enemy champion.</item>
+        <item>UNIQUE: When spotted by an enemy ward or traps, gain Blackout over a 400-unit radius for 8 seconds (90 second cooldown).</item>
+        <item>UNIQUE – BLACKOUT: You disable surrounding wards, as well as exposing stealthed wards and traps. The effects linger for 2 seconds after you walk away. Melee basic attacks instantly kill wards or traps revealed by Blackout. Blackout does not extend over terrain.</item>
+    </string-array>
+    <string-array name="edgeofnight">
+        <item>UNIQUE: +18 Lethality (11.2 - 18 (based on level) armor penetration)</item>
+        <item>UNIQUE: Channels for 1.5 seconds to gain a spell shield that blocks the next enemy ability within the next 7 seconds (40 second cooldown). Damage will interrupt the channel. You can move while channeling. If the channel is interrupted, the item is put on a reduced 5 second cooldown.</item>
+    </string-array>
+    <string-array name="elixirofiron">
+        <item>UNIQUE – PATH OF IRON: Leaves a path behind that grants allied champions +15% movement speed.</item>
+        <item>Only one elixir may be active at a time, but can stack with Travel Size elixirs.</item>
+    </string-array>
+    <string-array name="elixirofsorcery">
+        <item>UNIQUE – SORCERY: Going in combat by affecting enemy champions or turrets deals 25 bonus true damage (5 second cooldown against champions, no cooldown against turrets).</item>
+        <item>Only one elixir may be active at a time, but can stack with Travel Size elixirs.</item>
+    </string-array>
+    <string-array name="elixirofwrath">
+        <item>UNIQUE – BLOODLUST: Dealing physical damage to champions heals for 15% of the damage dealt. Area of effect physical damage only heals 5% for every unit affected.</item>
+        <item>Only one elixir may be active at a time, but can stack with Travel Size elixirs</item>
+    </string-array>
+    <string-array name="essencereaver">
+        <item>UNIQUE: Gain 0% - 20% (based on critical strike chance) additional cooldown reduction. This bonus does not include the critical strike chance given by this item.</item>
+        <item>UNIQUE: Critical strikes restore 3% of your maximum mana.</item>
+    </string-array>
+    <string-array name="executionerscalling">
+        <item>UNIQUE – EXECUTIONER: Physical damage inflicts Grievous Wounds on enemy champions for 3 seconds.</item>
+    </string-array>
+    <string-array name="faeriecharm">
+        <item>faeriecharm</item>
+        <item>faeriecharm</item>
+        <item>faeriecharm</item>
+        <item>faeriecharm</item>
+    </string-array>
+    <string-array name="farsightalteration">
+        <item>farsightalteration</item>
+        <item>farsightalteration</item>
+        <item>farsightalteration</item>
+        <item>farsightalteration</item>
+    </string-array>
+    <string-array name="fiendishcodex">
+        <item>fiendishcodex</item>
+        <item>fiendishcodex</item>
+        <item>fiendishcodex</item>
+        <item>fiendishcodex</item>
+    </string-array>
+    <string-array name="forbiddenidol">
+        <item>forbiddenidol</item>
+        <item>forbiddenidol</item>
+        <item>forbiddenidol</item>
+        <item>forbiddenidol</item>
+    </string-array>
+    <string-array name="frostfang">
+        <item>UNIQUE – TRIBUTE: Grants a charge every 10 seconds, up to 3 charges. Damaging spells and attacks against champions and buildings consume a charge, up to one per attack or cast. Consuming a charge deals them 18 bonus magic damage and grants 20 gold. Before quest completion, killing a minion or non-epic monster pauses Tribute generation and the passive gold generation for 12 seconds per unit slain.</item>
+        <item>UNIQUE – QUEST: Earn Gold 500 using this item. REWARD: Permanently upgrades Frostfang to Eye of Frost and Remnant of the Watchers to Eye of the Watchers, giving them the WARDING active with respectively 3 and 4 wards in stock.</item>
+    </string-array>
+    <string-array name="frozenheart">
+        <item>UNIQUE: Cripple icon Cripples nearby enemies' attack speed by 15% (700 range).</item>
+    </string-array>
+    <string-array name="frozenmallet">
+        <item>UNIQUE – ICY: Basic attacks (on-hit) apply a 40% slow to your target for 1.5 seconds, refreshing with every hit.</item>
+        <item>On ranged champions, applies a 20% slow instead.</item>
+    </string-array>
+    <string-array name="gargoylestoneplate">
+        <item>UNIQUE – STONE SKIN: If 3 or more enemy champions are nearby, grants 40 bonus armor and 40 bonus magic resistance.</item>
+        <item>UNIQUE – METALLICIZE: Increases current and maximum health by 40%, as well as champion size, but reduces the damage you deal by 60% for 4 seconds. If STONE SKIN is active, instead increases health by 100% (92 second cooldown). Current health percentage is conserved when the effect ends, as well.</item>
+    </string-array>
+    <string-array name="giantsbelt">
+        <item>UNIQUE – GIANT SLAYER: Grants 0% - 10% (based on health difference) bonus physical damage against enemy champions with greater maximum health than you.</item>
+    </string-array>
+    <string-array name="giantslayer">
+        <item>giantslayer</item>
+        <item>giantslayer</item>
+        <item>giantslayer</item>
+        <item>giantslayer</item>
+    </string-array>
+    <string-array name="glacialshroud">
+        <item>glacialshroud</item>
+        <item>glacialshroud</item>
+        <item>glacialshroud</item>
+        <item>glacialshroud</item>
+    </string-array>
+    <string-array name="guardianangel">
+        <item>UNIQUE: Upon taking lethal damage, restores 50% of base health and 30% of maximum mana after 4 seconds of stasis (300 second cooldown).</item>
+    </string-array>
+    <string-array name="guinsoosrageblade">
+        <item>Basic attacks deal 5 (+ 10% bonus AD) physical and 5 (+ 10% AP) magic damage on-hit.</item>
+        <item>UNIQUE: Basic attacks grant 8% attack speed, 4% bonus AD, and 4% AP for 5 seconds, stacking up to 6 times, granting a maximum of 48% attack speed, 24% bonus AD, and 24% AP. At 6 stacks, gain GUINSOO'S RAGE. While at half stacks, melee champions' next basic attack will fully stack Rageblade.</item>
+        <item>UNIQUE – GUINSOO'S RAGE: Every other basic attack will trigger on-hit effects an additional time.</item>
+    </string-array>
+    <string-array name="hauntingguise">
+        <item>UNIQUE – MADNESS: Damaging an enemy champion generates one stack every second for the next 4 seconds. Deal 2% increased damage for each stack, up to a maximum of 10%.</item>
+    </string-array>
+    <string-array name="healthpotion">
+        <item>healthpotion</item>
+        <item>healthpotion</item>
+        <item>healthpotion</item>
+        <item>healthpotion</item>
+    </string-array>
+    <string-array name="hexdrinker">
+        <item>UNIQUE – LIFELINE: If you would take magic damage that would reduce maximum health below 30%, you first gain a shield that absorbs 110 - 280 (based on level) magic damage for 5 seconds (90 second cooldown).</item>
+    </string-array>
+    <string-array name="hextechglp800">
+        <item>UNIQUE – HASTE: Grants an additional 10% cooldown reduction.</item>
+        <item>UNIQUE – FROST BOLT: After a small delay, fires a spray of five icy bolts in a cone, which each bolt dealing 100 - 200 (based on level) (+ 20% AP) magic damage and slowing by 65%, decaying over 1 second, to the first units hit (40 second cooldown, shared with other Hextech items).</item>
+    </string-array>
+    <string-array name="hextechgunblade">
+        <item>UNIQUE: Instantly heal for 15% of all damage dealt, including physical, magic, and true damage. Area of effect damage only heals 5% for every unit affected.</item>
+        <item>UNIQUE – LIGHTNING BOLT: Instantly deals 175 - 253 (based on level) (+ 30% AP) magic damage and slows the target champion's movement speed by 40% for 2 seconds (700 range) (40 second cooldown, shared with other Hextech items).</item>
+    </string-array>
+    <string-array name="hextechprotobelt01">
+        <item>UNIQUE – FIRE BOLT: Dash forward dealing 75 - 150 (based on level) (+ 25% AP) magic damage on your way and behind you. At the end of the dash you fire a nova of seven fire bolts in a cone, with each bolt dealing the same magic damage. Champions and monsters damaged by multiple instances take 10% damage per additional instance (40 second cooldown, shared with other Hextech items).</item>
+    </string-array>
+    <string-array name="hextechrevolver">
+        <item>UNIQUE – MAGIC BOLT: Damaging an enemy champion with a basic attack shocks them for 50 - 125 (based on level) bonus magic damage. (40 second cooldown, shared with other Hextech items.)</item>
+    </string-array>
+    <string-array name="huntersmachete">
+        <item>UNIQUE – NAIL: Basic attacks against monsters deal 25 bonus on-hit physical damage and grant 15% bonus attack speed for 2 seconds.</item>
+        <item>Killing large or epic monsters grants +50 bonus experience, and gain +50 bonus experience for each level the monster is higher than you.</item>
+    </string-array>
+    <string-array name="hunterspotion">
+        <item>Holds up to 5 charges that refill upon visiting the store. Killing large monsters grants one charge.</item>
+        <item>Killing a large monster at maximum charges will trigger the restoration at no cost to the charges.</item>
+    </string-array>
+    <string-array name="hunterstalisman">
+        <item>UNIQUE – TOOTH: Damaging a monster burns it for an additional 45 magic damage over 5 seconds while causing you to restore 5 health per second. The damage is increased to 75 if you have bonus health from runes or items.</item>
+        <item>Killing large or epic monsters grants +50 bonus experience, and gain +50 bonus experience for each level the monster is higher than you.</item>
+    </string-array>
+    <string-array name="iceborngauntlet">
+        <item>UNIQUE – SPELLBLADE: After using an ability, your next basic attack within 10 seconds deals (100% base AD) on-hit bonus damage (1.5 second cooldown).</item>
+        <item>UNIQUE – ICY ZONE: Triggering Spellblade also deals (100% base AD) physical damage to enemies surrounding the target and creates a icy zone for 2 seconds, which slows enemies within by 30%. The zone has a radius of 180 (+ 55% bonus armor) units.</item>
+    </string-array>
+    <string-array name="infinityedge">
+        <item>UNIQUE: Critical strike bonus damage is increased by 50%.</item>
+    </string-array>
+    <string-array name="ionianbootsoflucidity">
+        <item>UNIQUE – ENHANCED MOVEMENT: +45 flat movement speed</item>
+        <item>UNIQUE: Reduces summoner spell cooldowns by 10%.</item>
+    </string-array>
+    <string-array name="jaurimsfist">
+        <item>UNIQUE: Killing a unit grants 5 bonus health, stacking up to 20 times for a maximum of 100 bonus health.</item>
+    </string-array>
+    <string-array name="kindlegem">
+        <item></item>
+    </string-array>
+    <string-array name="kircheisshard">
+        <item>Moving and attacking generates Energize stacks, up to 100. When fully Kircheis Shard item Energized, your next basic attack gains ENERGIZED STRIKE.</item>
+        <item>UNIQUE – ENERGIZED STRIKE: Your next basic attack deals +50 bonus on-hit magic damage.</item>
+    </string-array>
+    <string-array name="knightsvow">
+        <item>UNIQUE: If your Partner is nearby, gain 20 armor, and 15% bonus movement speed while moving toward them.</item>
+        <item>UNIQUE: While within a 1000 range of your Partner, heal for 12% of the damage your Partner deals to champions and redirect 12% of the damage your Partner takes from champions (after reductions) to you as true damage. Both effects are reduced to 6% if the item holder is ranged.</item>
+        <item>UNIQUE: Designate an allied champion as your Partner (90 second cooldown).</item>
+    </string-array>
+    <string-array name="lastwhisper">
+        <item>UNIQUE – LAST WHISPER: +35% bonus armor penetration.</item>
+    </string-array>
+    <string-array name="liandrystorment">
+        <item>UNIQUE – MADNESS: Damaging an enemy champion generates one stack every second for the next 4 seconds. Deal 2% increased damage for each stack, up to a maximum of 10%.</item>
+        <item>UNIQUE – TORMENT: Dealing spell damage applies a damage-over-time effect for 3 seconds that deals a total of 3% of target's maximum health bonus magic damage, with each tick applying every 0.5 seconds. This total damage is doubled to 6% of target's maximum health against slowed or immobilized units, and capped at 100 damage per second against monsters.</item>
+    </string-array>
+    <string-array name="lichbane">
+        <item>UNIQUE – SPELLBLADE: After using an ability, your next basic attack within 10 seconds deals 75% base AD (+ 50% AP) on-hit bonus magic damage (1.5 second cooldown).</item>
+    </string-array>
+    <string-array name="locketoftheironsolari">
+        <item>UNIQUE: Grants a decaying shield to nearby allied champions and yourself for up to 2.5 seconds, absorbing up to 45 - 300 (based on highest level between target and caster) (+ 20% of caster's bonus health) damage (120 second cooldown) (600 range).</item>
+        <item>This effect is reduced to 25% if the target has been affected by another Locket of the Iron Solari in the last 20 seconds.</item>
+    </string-array>
+    <string-array name="longsword">
+        <item></item>
+    </string-array>
+    <string-array name="lorddominiksregards">
+        <item>UNIQUE – GIANT SLAYER: Grants 0% - 20% (based on health difference) bonus physical damage against enemy champions with greater maximum health than you.</item>
+        <item>UNIQUE – LAST WHISPER: + 35% bonus armor penetration.</item>
+    </string-array>
+    <string-array name="lostchapter">
+        <item>UNIQUE – HASTE: Grants an additional 10% cooldown reduction.</item>
+        <item>UNIQUE: Upon leveling, restores 20% of your maximum mana over 3 seconds.</item>
+    </string-array>
+    <string-array name="ludensecho">
+        <item>UNIQUE – HASTE: Grants an additional 10% cooldown reduction.</item>
+        <item>UNIQUE – ECHO: Gains charges upon moving or casting. At 100 charges, the next instance of ability damage you deal will expend all charges to deal 100 (+ 10% AP) bonus magic damage to the first enemy hit and to 3 nearby enemies, prioritizing enemies damaged by the ability and champions over minions.</item>
+    </string-array>
+    <string-array name="manamune">
+        <item>UNIQUE – AWE: Grants bonus attack damage equal to 2% maximum mana. Refunds 15% of mana spent.</item>
+        <item>UNIQUE – MANA CHARGE: Grants a charge every 4 seconds, up to 3 charges. Each basic attack or mana expenditure consumes a charge and grants +5 mana, up to a maximum of 750 mana.</item>
+        <item>Transforms into Muramana item Muramana at +750 mana.</item>
+    </string-array>
+    <string-array name="mawofmalmortius">
+        <item>UNIQUE – LIFELINE: If you would take magic damage that would reduce maximum health below 30%, you first gain a shield that absorbs 300 (+ 100% bonus magic resistance) magic damage for 5 seconds (90 second cooldown).</item>
+        <item>Triggering Lifeline grants Lifegrip.</item>
+        <item>UNIQUE – LIFEGRIP: Grants +20 attack damage, +10% spell vamp and +10% life steal until out-of-combat.</item>
+    </string-array>
+    <string-array name="mejaissoulstealer">
+        <item>UNIQUE – DREAD: Grants +5 ability power per stack of Glory. Grants +10% bonus movement speed at 15 Glory.</item>
+        <item>UNIQUE – DO OR DIE: Grants 4 Glory (+20 AP) for a champion kill and 2 Glory (+10 AP) for an assist, up to 25 Glory (+125 AP). Upon death, lose 10 Glory stacks (-50 AP).</item>
+    </string-array>
+    <string-array name="mercurialscimitar">
+        <item>UNIQUE – QUICKSILVER: Removes all crowd control debuffs from your champion and grants +50% movement speed for 1 second (90 second cooldown).</item>
+    </string-array>
+    <string-array name="mercurystreads">
+        <item>UNIQUE – ENHANCED MOVEMENT: +45 flat movement speed</item>
+        <item>UNIQUE – TENACITY: Reduces the duration of all crowd control effects by 30% (except for Suppression, Stasis, and Displacements).</item>
+    </string-array>
+    <string-array name="mikaelscrucible">
+        <item>UNIQUE – HARMONY: Gain +25% base health regeneration for every additional 25% base mana regeneration.</item>
+        <item>UNIQUE: Instantly removes all stuns, roots, taunts, fears, charms, silences and slows on an allied champion, as well as granting 2 seconds of slow immunity. Successfully cleansing an effect will also grant the target 40% bonus movement speed for 2 seconds (120 second cooldown) (750 range).</item>
+    </string-array>
+    <string-array name="morellonomicon">
+        <item>UNIQUE – TOUCH OF DEATH: +15 magic penetration.</item>
+        <item>UNIQUE – CURSED STRIKE: Dealing magic damage to an enemy champion inflicts them with Grievous Wounds icon Grievous Wounds for 3 seconds.</item>
+    </string-array>
+    <string-array name="mortalreminder">
+        <item>UNIQUE – EXECUTIONER: Physical damage inflicts Grievous Wounds icon Grievous Wounds on enemy champions for 5 seconds.</item>
+        <item>UNIQUE – LAST WHISPER: +35% bonus armor penetration.</item>
+    </string-array>
+    <string-array name="nashorstooth">
+        <item>UNIQUE: +15 (+ 15% AP) on-hit magic damage</item>
+    </string-array>
+    <string-array name="needlesslylargerod">
+        <item>needlesslylargerod</item>
+        <item>needlesslylargerod</item>
+        <item>needlesslylargerod</item>
+        <item>needlesslylargerod</item>
+    </string-array>
+    <string-array name="negatroncloak">
+        <item>negatroncloak</item>
+        <item>negatroncloak</item>
+        <item>negatroncloak</item>
+        <item>negatroncloak</item>
+    </string-array>
+    <string-array name="ninjatabi">
+        <item>UNIQUE – ENHANCED MOVEMENT: +45 flat movement speed</item>
+        <item>UNIQUE: Reduces incoming damage from all basic attacks by 12% (excluding turret shots). Does not reduce damage of on-hit effects, it does however reduce damage of basic attack modifiers.</item>
+    </string-array>
+    <string-array name="nomadsmedallion">
+        <item>UNIQUE – FAVOR: Nearby enemy minions, killed by any ally other than you, will sometimes drop a coin that can be picked up to either grant 45 gold or restore 6% missing mana (minimum 10). Cannon minions will drop a coin as long as you don't kill them.</item>
+        <item>UNIQUE – QUEST: Earn 500 gold using this item. REWARD: Permanently upgrades Nomad's Medallion to Nomad's Eye and Remnant of the Ascended to Eye of Ascension, giving them the WARDING active with respectively 3 and 4 wards in stock.</item>
+    </string-array>
+    <string-array name="nullmagicmantle">
+        <item>nullmagicmantle</item>
+        <item>nullmagicmantle</item>
+        <item>nullmagicmantle</item>
+        <item>nullmagicmantle</item>
+    </string-array>
+    <string-array name="oblivionorb">
+        <item>UNIQUE – TOUCH OF DEATH: +15 magic penetration.</item>
+    </string-array>
+    <string-array name="ohmwrecker">
+        <item>UNIQUE – POINT RUNNER: Builds up to 20% bonus movement speed over 2 seconds while near turrets, fallen turrets and Void Gates.</item>
+        <item>UNIQUE: Targets an enemy turret to prevent it from attacking for 3 seconds (120 second cooldown). This effect cannot be used against the same tower more than once every 8 seconds.</item>
+    </string-array>
+    <string-array name="oraclelens">
+        <item>Summons a Sweeper Drone icon Sweeper Drone that escorts you for the next 10 seconds (90 - 60 (based on level) second cooldown). The drone has a 750-unit detection radius.</item>
+    </string-array>
+    <string-array name="phage">
+        <item>UNIQUE – RAGE: Basic attacks (on-hit) grant +20 flat movement speed for 2 seconds. Killing a Unit grants +60 flat movement speed instead.</item>
+        <item>On ranged champions, both movement speed bonuses are halved.</item>
+    </string-array>
+    <string-array name="phantomdancer">
+        <item>UNIQUE – SPECTRAL WALTZ: Grants Ghost ghosting and +7% movement speed while within 550 units of a visible enemy champion.</item>
+        <item>UNIQUE – LAMENT: Grants 12% damage reduction against the last enemy champion you basic attacked (lasts for 10 seconds and refreshes with each basic attack).</item>
+    </string-array>
+    <string-array name="pickaxe">
+        <item>pickaxe</item>
+        <item>pickaxe</item>
+        <item>pickaxe</item>
+        <item>pickaxe</item>
+    </string-array>
+    <string-array name="poachersdirk">
+        <item>UNIQUE – HEADHUNTER: After killing any enemy, your next damaging spell will deal 40 bonus physical damage to all enemies it hits (30 second cooldown).</item>
+        <item>UNIQUE: After poaching 4 large monsters from the enemy jungle, transforms into a Serrated Dirk item Serrated Dirk that sells for 0 gold.</item>
+    </string-array>
+    <string-array name="quicksilversash">
+        <item>UNIQUE – QUICKSILVER: Removes all crowd control debuffs from your champion (90 second cooldown).</item>
+    </string-array>
+    <string-array name="rabadonsdeathcap">
+        <item>UNIQUE: +40% ability power.</item>
+    </string-array>
+    <string-array name="randuinsomen">
+        <item>UNIQUE: -20% Critical strike icon critical strike damage taken from basic attacks.</item>
+        <item>UNIQUE – COLD STEEL: When hit by basic attacks, Cripple icon cripples source's attack speed by 15% for 1 second.</item>
+    </string-array>
+    <string-array name="rapidfirecannon">
+        <item>Moving and attacking generates Energize stacks, up to 100. When fully Kircheis Shard item Energized, your next basic attack gains FIRECANNON.</item>
+        <item>UNIQUE – FIRECANNON: Your next basic attack gains 35% increased range (up to a maximum of +150 range) and deals 60 - 140 (based on level) bonus on-hit magic damage.</item>
+        <item>FIRECANNON is applicable on structures.</item>
+        <item>Attacks become Energized 25% faster.</item>
+    </string-array>
+    <string-array name="raptorcloak">
+        <item>UNIQUE – POINT RUNNER: Builds up to 20% bonus movement speed over 2 seconds while near turrets, fallen turrets and Void Gates.</item>
+    </string-array>
+    <string-array name="ravenoushydra">
+        <item>Life steal applies to 50% of CLEAVE and CRESCENT'S splash physical damage.</item>
+        <item>UNIQUE – CLEAVE: Basic attacks deal (20% to 60% AD) physical damage to units around your target – (20% AD near the edge) (350 units radius).</item>
+        <item>UNIQUE – CRESCENT: Deals (60% to 100% AD) physical damage to units around you – (60% AD near the edge) (400 units radius) (10 second cooldown).</item>
+        <item>ravenoushydra</item>
+    </string-array>
+    <string-array name="recurvebow">
+        <item>UNIQUE: +15 on-hit physical damage</item>
+    </string-array>
+    <string-array name="redemption">
+        <item>UNIQUE: You reveal the target area within 5500 for ~3 seconds. After a 2.5 second delay, a beam of light strikes the ground. Allies within the area are healed for 30 - 370 (based on target's level), which is increased by 3 × your Heal Power, while enemy champions take 10% of maximum health true damage and enemy minions take 250 true damage (120 second cooldown). Can be used while dead.</item>
+    </string-array>
+    <string-array name="refillablepotion">
+        <item>Holds up to 2 charges that refill upon visiting the store.</item>
+    </string-array>
+    <string-array name="rejuvenationbead">
+        <item>rejuvenationbead</item>
+        <item>rejuvenationbead</item>
+        <item>rejuvenationbead</item>
+        <item>rejuvenationbead</item>
+    </string-array>
+    <string-array name="relicshield">
+        <item>UNIQUE – SPOILS OF WAR: Melee role Melee autoattacks execute minions below 200 - 285 (based on level) health. Killing a minion by any means heals you and the nearest allied champion for 15 (+ 2% of missing health) health and grants them kill gold. Healing is halved if the owner is ranged. These effects require an allied champion within 1050 units of the user and consume a charge. Recharges every 40 seconds. Max 2 charges.</item>
+        <item>UNIQUE – QUEST: Earn Gold 500 using this item and upgrade to Targon's Brace. REWARD: Permanently upgrades Targon's Brace to Celestial Eye and Remnant of the Aspect to Eye of the Aspect item Eye of the Aspect, giving them the WARDING active with respectively 3 and 4 wards in stock.</item>
+    </string-array>
+    <string-array name="remnantoftheascended">
+        <item>UNIQUE – FAVOR: Nearby enemy minions, killed by any ally other than you, will sometimes drop a coin that can be picked up to either grant 45 gold or restore 6% missing mana (minimum 10). Cannon minions will drop a coin as long as you don't kill them.</item>
+        <item>UNIQUE – QUEST: Earn Gold 500 using this item. REWARD: Permanently upgrades Nomad's Medallion to Nomad's Eye and Remnant of the Ascended to Eye of Ascension, giving them the WARDING active with respectively 3 and 4 wards in stock.</item>
+    </string-array>
+    <string-array name="remnantoftheaspect">
+        <item>UNIQUE – SPOILS OF WAR: Melee basic attacks execute minions below 340 - 680 (based on level) health. Melee autoattacks that would proc SPOILS OF WAR gain 150 bonus range and slightly increased attack speed. Killing a minion by any means heals you and the nearest allied champion for 50 (+ 2% of missing health) health and grants them kill gold. Healing is halved if the owner is ranged. These effects require an allied champion within 1050 units of the user. Recharges every 30 seconds. Max 4 charges.</item>
+        <item>UNIQUE – QUEST: Earn 500 gold using this item. REWARD: Permanently upgrades Targon's Brace to Celestial Eye and Remnant of the Aspect to Eye of the Aspect, giving them the WARDING active with respectively 3 and 4 wards in stock.</item>
+    </string-array>
+    <string-array name="remnantofthewatchers">
+        <item>UNIQUE – TRIBUTE: Grants a charge every 10 seconds, up to 3 charges. Damaging spells and attacks against champions and buildings consume a charge, up to one per attack or cast. Consuming a charge deals them 18 bonus magic damage and grants 20 gold. Before quest completion, killing a minion or non-epic monster pauses Tribute generation and the passive gold generation for 12 seconds per unit slain.</item>
+        <item>UNIQUE – QUEST: Earn Gold 500 using this item. REWARD: Permanently upgrades Frostfang to Eye of Frost and Remnant of the Watchers to Eye of the Watchers, giving them the WARDING active with respectively 3 and 4 wards in stock.</item>
+    </string-array>
+    <string-array name="righteousglory">
+        <item>UNIQUE: For 4 seconds, grants 75% bonus movement speed when moving towards enemies. After the duration or when an enemy champion is within close proximity, you emit a shockwave, slowing nearby enemy champions by 75% for 2 seconds (90 second cooldown).</item>
+    </string-array>
+    <string-array name="rodofages">
+        <item>This item gains 20 health, 10 mana and 4 ability power every minute, up to 10 times, for a maximum of 200 health, 100 mana and 40 ability power.</item>
+        <item>UNIQUE – ETERNITY: Restore mana equal to 15% of damage taken from champions. Restore health equal to 20% of mana spent, up to 25 health per cast, while toggle abilities can heal for up to 25 per second.</item>
+    </string-array>
+    <string-array name="rubycrystal">
+        <item>rubycrystal</item>
+        <item>rubycrystal</item>
+        <item>rubycrystal</item>
+        <item>rubycrystal</item>
+    </string-array>
+    <string-array name="runaanshurricane">
+        <item>UNIQUE – WIND'S FURY: When basic attacking, bolts are fired at up to 2 enemies near the target, each dealing 40% AD physical damage. Bolts can critically strike and apply on-hit effects.</item>
+        <item>Can only be purchased on ranged champions.</item>
+    </string-array>
+    <string-array name="rylaiscrystalscepter">
+        <item>UNIQUE – ICY: Damaging abilities and pet attacks slow affected units by 20% for 1 second.</item>
+    </string-array>
+    <string-array name="sapphirecrystal">
+        <item>sapphirecrystal</item>
+        <item>sapphirecrystal</item>
+        <item>sapphirecrystal</item>
+        <item>sapphirecrystal</item>
+    </string-array>
+    <string-array name="seekersarmguard">
+        <item>UNIQUE: Killing a unit grants 0.5 bonus ability power and armor, stacking up to 30 times for a maximum of 15 bonus ability power and armor.</item>
+    </string-array>
+    <string-array name="serrateddirk">
+        <item>UNIQUE: +10 Lethality (6.22 - 10 (based on level) armor penetration)</item>
+        <item>UNIQUE – HEADHUNTER: After killing any enemy, your next damaging spell will deal 40 bonus physical damage to all enemies it hits (30 second cooldown).</item>
+    </string-array>
+    <string-array name="sheen">
+        <item>UNIQUE – SPELLBLADE: After using an ability, your next basic attack within 10 seconds deals (100% base AD) on-hit bonus damage (1.5 second cooldown).</item>
+    </string-array>
+    <string-array name="shurelyasreverie">
+        <item>UNIQUE: +8% movement speed.</item>
+        <item>UNIQUE: Grants yourself and nearby allies 40% bonus movement speed for 3 seconds (60 second cooldown).</item>
+    </string-array>
+    <string-array name="skirmisherssabre">
+        <item>UNIQUE – CHALLENGING SMITE: Upgrades Smite to Challenging Smite.</item>
+        <item>Challenging Smite can be cast on enemy champions, revealing them for 4 seconds, reducing their damage against you by 20% and making them take 60 - 162 (based on level) true damage over 3 seconds from your basic attacks for the duration.</item>
+        <item>UNIQUE – TOOTH AND NAIL: Basic attacks versus monsters deal 30 bonus physical damage and grant 15% bonus attack speed for 2 seconds. Damaging a monster by any means set it aflame, dealing an additional 80 magic damage over 5 seconds while causing you to restore 6 health per second for every enemy you're burning.</item>
+        <item>Killing large or epic monsters grants +50 bonus experience, and gain +50 bonus experience for each level higher the monster is than you.</item>
+    </string-array>
+    <string-array name="sorcerersshoes">
+        <item>UNIQUE – ENHANCED MOVEMENT: +45 flat movement speed</item>
+    </string-array>
+    <string-array name="spectrescowl">
+        <item>UNIQUE: Grants 150% base health regeneration for 10 seconds after taking damage from an enemy champion.</item>
+    </string-array>
+    <string-array name="spellbinder">
+        <item>UNIQUE – SPELLSTEAL: Gains a charge each time a nearby enemy or allied champion, including yourself, uses an ability, up to a maximum of 100 charges.</item>
+        <item>UNIQUE – SPELLBURST: Grants 0 - 100 (based on charges) ability power and a decaying 0% - 30% (based on charges) bonus movement speed for 4 seconds (60 second cooldown).</item>
+    </string-array>
+    <string-array name="spellthiefsedge">
+        <item>UNIQUE – TRIBUTE: Grants a charge every 10 seconds, up to 3 charges. Damaging spells and attacks against champions and buildings consume a charge, up to one per attack or cast. Consuming a charge deals them 13 bonus magic damage and grants 10 gold. Before quest completion, killing a minion or non-epic monster pauses Tribute generation and the passive gold generation for 12 seconds per unit slain.</item>
+        <item>UNIQUE – QUEST: Earn 500 gold using this item and upgrade to Frostfang. REWARD: Permanently upgrades Frostfang to Eye of Frost and Remnant of the Watchers to Eye of the Watchers, giving them the WARDING active with respectively 3 and 4 wards in stock.</item>
+    </string-array>
+    <string-array name="spiritvisage">
+        <item>UNIQUE: Increases effectiveness of all sources of health restoration by 30% (including health regeneration, life steal and spell vamp).</item>
+    </string-array>
+    <string-array name="stalkersblade">
+        <item>UNIQUE – CHILLING SMITE: Upgrades Smite to Chilling Smite.</item>
+        <item>Chilling Smite can be cast on enemy champions, dealing 28 - 166 (based on level) true damage and stealing 20% of their movement speed for 2 seconds.</item>
+        <item>UNIQUE – TOOTH AND NAIL: Basic attacks versus monsters deal 30 bonus physical damage and grant 15% bonus attack speed for 2 seconds. Damaging a monster by any means set it aflame, dealing an additional 80 magic damage over 5 seconds while causing you to restore 6 health per second for every enemy you're burning.</item>
+        <item>Killing large or epic monsters grants +50 bonus experience, and gain +50 bonus experience for each level higher the monster is than you.</item>
+    </string-array>
+    <string-array name="statikkshiv">
+        <item>Moving and attacking generates Energize stacks, up to 100. When fully Energized, your next basic attack gains SHIV LIGHTNING.</item>
+        <item>UNIQUE – SHIV LIGHTNING: Your next basic attack (on-hit) sparks lightning to up to 5 nearby units, dealing 60 - 140 (based on level) bonus magic damage.</item>
+        <item>SHIV LIGHTNING can critically strike, dealing 100% (+50%) bonus damage.</item>
+    </string-array>
+    <string-array name="steraksgage">
+        <item>UNIQUE: +50% base attack damage.</item>
+        <item>UNIQUE – LIFELINE: If you take 400 - 1800 (based on level) damage within 5 seconds, you gain a shield for 8 seconds equal to 75% bonus health that decays after 0.75 seconds (60 second cooldown). Triggering Lifeline grants Sterak's Fury.</item>
+        <item>UNIQUE – STERAK'S FURY: Grants increased size and +30% Tenacity for 8 seconds.</item>
+        <item>Can only be purchased on Melee role melee champions.</item>
+    </string-array>
+    <string-array name="stinger">
+        <item>stinger</item>
+        <item>stinger</item>
+        <item>stinger</item>
+        <item>stinger</item>
+    </string-array>
+    <string-array name="stopwatch">
+        <item>UNIQUE – STASIS: Put yourself in Stasis icon stasis for 2.5 seconds, rendering yourself untargetable and invulnerable for the duration, but also unable to move, attack, cast spells, or use items during this time.</item>
+        <item>Transforms into Broken Stopwatch when activated, which cannot be activated again. Once broken, all future purchases are also broken.</item>
+    </string-array>
+    <string-array name="sunfirecape">
+        <item>UNIQUE – IMMOLATE: Deals 26 - 43 (based on level) magic damage per second to nearby enemies. Deals 「 50% bonus 」 magic damage to minions and monsters (325 range).</item>
+    </string-array>
+    <string-array name="targonsbrace">
+        <item>UNIQUE – SPOILS OF WAR: Melee autoattacks execute minions below 210 - 380 (based on level) health. Killing a minion by any means heals you and the nearest allied champion for 40 (+ 2% of missing health) health and grants them kill gold. Healing is halved if the owner is ranged. These effects require an allied champion within 1050 units of the user and consume a charge. Recharges every 30 seconds. Max 3 charges.</item>
+        <item>UNIQUE – QUEST: Earn Gold 500 using this item. REWARD: Permanently upgrades Targon's Brace to Celestial Eye and Remnant of the Aspect to Eye of the Aspect, giving them the WARDING active with respectively 3 and 4 wards in stock.</item>
+    </string-array>
+    <string-array name="tearofthegoddess">
+        <item>UNIQUE – AWE: Refunds 15% of mana spent.</item>
+        <item>UNIQUE – MANA CHARGE: Grants a charge every 4 seconds, up to 3 charges. Each mana expenditure consumes a charge and grants +4 mana, up to a maximum of 750 mana.</item>
+    </string-array>
+    <string-array name="theblackcleaver">
+        <item>UNIQUE: Dealing physical damage to an enemy champion Cleaves them, reducing their armor by 4% for 6 seconds, stacking up to 6 times for a maximum of 24%.</item>
+        <item>UNIQUE – RAGE: Dealing physical damage grants 20 movement speed for 2 seconds. Assists on Cleaved enemy champions or kills on any unit grant 60 movement speed for 2 seconds instead. This movement speed bonus is halved for ranged champions.</item>
+    </string-array>
+    <string-array name="thebloodthirster">
+        <item>UNIQUE: +20% life steal</item>
+        <item>UNIQUE: Your life steal overheals you, converting the excess healing into a shield that absorbs up to 50 - 350 (based on level) damage and decays when out-of-combat for 25 seconds.</item>
+    </string-array>
+    <string-array name="thedarkseal">
+        <item>UNIQUE – DREAD: Grants +3 ability power per stack of Glory.</item>
+        <item>UNIQUE – DO OR DIE: Grants 2 Glory (+6 AP) for a champion kill and 1 Glory (+3 AP) for an assist, up to a maximum of 10 Glory stacks (+30 AP). Upon death, lose 4 Glory stacks (-12 AP).</item>
+    </string-array>
+    <string-array name="thornmail">
+        <item>UNIQUE – THORNS: Upon being hit by a basic attack, reflects 25 (+ 10% bonus armor) magic damage, while also inflicting Grievous Wounds on the attacker for 1 second.</item>
+        <item>UNIQUE – COLD STEEL: When hit by basic attacks, cripples source's attack speed by 15% for 1 second.</item>
+    </string-array>
+    <string-array name="tiamat">
+        <item>UNIQUE – CLEAVE: Basic attacks deal (20% to 60% AD) physical damage to units around your target – (20% AD near the edge) (350 units radius).</item>
+        <item>UNIQUE – CRESCENT: Deals (60% to 100% AD) physical damage to units around you – (60% AD near the edge) (400 units radius) (10 second cooldown).</item>
+        <item>Can only be purchased on melee champions.</item>
+    </string-array>
+    <string-array name="titanichydra">
+        <item>UNIQUE – CLEAVE: Basic attacks deal 5 (+ 1% maximum health) bonus on-hit physical damage. Additionally, basic attacks also deal 40 (+ 2.5% maximum health) physical damage in a cone to units behind the target (700 range).</item>
+        <item>UNIQUE – CRESCENT: On your next basic attack, Cleave's damage to all targets is increased to 40 (+ 10% maximum health) and has a larger cone (20 second cooldown). CRESCENT resets your autoattack timer.</item>
+        <item>Can only be purchased on melee champions.</item>
+    </string-array>
+    <string-array name="trinityforce">
+        <item>UNIQUE – RAGE: Basic attacks (on-hit) grant +20 flat movement speed for 2 seconds. Killing a unit grants +60 flat movement speed instead. Bonus movement speed is halved on ranged champions.</item>
+        <item>UNIQUE – SPELLBLADE: After using an ability, your next basic attack within 10 seconds deals (200% base AD) on-hit bonus damage (1.5 second cooldown).</item>
+    </string-array>
+    <string-array name="twinshadows">
+        <item>UNIQUE – SPECTRAL PURSUIT: Summons 2 ghosts for 6 seconds that seek out nearby enemy champions (4000 range). Ghosts, on contact, reveal and slow enemy champion by 40% for 2 - 5 (based on distance traveled) seconds (90 second cooldown).</item>
+    </string-array>
+    <string-array name="vampiricscepter">
+        <item></item>
+    </string-array>
+    <string-array name="voidstaff">
+        <item>UNIQUE: Magic damage ignores 40% of the target's magic resistance; applies before magic penetration.</item>
+    </string-array>
+    <string-array name="wardensmail">
+        <item>UNIQUE – COLD STEEL: When hit by basic attacks, cripples source's attack speed by 15% for 1 second.</item>
+    </string-array>
+    <string-array name="wardingtotem">
+        <item>Consume a charge to place an invisible Totem Ward at the target location (600 range), which reveals the surrounding area for 60 - 120 (based on level) seconds. Stores one charge every 180 - 90 (based on level) seconds, up to 2 maximum charges.</item>
+    </string-array>
+    <string-array name="warmogsarmor">
+        <item>Grants WARMOG'S HEART if you have at least 3000 maximum health.</item>
+        <item>UNIQUE – WARMOG'S HEART: Regenerate 「 2.5% maximum health every half-second 」if damage has not been taken in the last 6 seconds (3 second for minions).</item>
+    </string-array>
+    <string-array name="witsend">
+        <item>UNIQUE: +42 bonus on-hit magic damage</item>
+        <item>UNIQUE: Basic attacks (on-hit) grant 6 magic resistance and reduce the target's magic resistance by 6 for 5 seconds. Stacks up to 5 times for a total of 30 magic resistance.</item>
+        <item>Ranged champions only steal 3 magic resistance per basic attack, up to the same cap.</item>
+    </string-array>
+    <string-array name="youmuusghostblade">
+        <item>UNIQUE: +18 Lethality (11.2 - 18 (based on level) armor penetration)</item>
+        <item>UNIQUE: +40 movement speed out-of-combat.</item>
+        <item>UNIQUE: Gain +20% movement speed for 6 seconds (45 second cooldown).</item>
+    </string-array>
+    <string-array name="zeal">
+        <item>UNIQUE: +5% movement speed</item>
+    </string-array>
+    <string-array name="zekesconvergence">
+        <item>UNIQUE: Casting your ultimate near your Conduit grant you both bonus effects for 10 seconds. You are surrounded with a FROST storm which slows enemies within it by 20%, and your Conduit's basic attacks burn their target with FIRE dealing 50% bonus magic damage over 2 seconds (45 second cooldown).</item>
+        <item>UNIQUE – FROSTFIRE COVENANT: If an enemy is both struck by FROST and FIRE, your FROST storm ignites and becomes FROSTFIRE. A FROSTFIRE storm, deals 40 magic damage per second and slows by 40% instead for 3 seconds.</item>
+        <item>UNIQUE – CONDUIT: Designate an allied champion as your Conduit (0.5 second cooldown).</item>
+    </string-array>
+    <string-array name="zhonyashourglass">
+        <item>UNIQUE – STASIS: Put yourself in stasis for 2.5 seconds, rendering yourself untargetable and invulnerable for the duration, but also unable to move, attack, cast spells, or use items during this time (120 second cooldown).</item>
+    </string-array>
+    <string-array name="zzrotportal">
+        <item>UNIQUE – POINT RUNNER: Builds up to 20% bonus movement speed over 2 seconds while near turrets, fallen turrets and Void Gates.</item>
+        <item>UNIQUE: Spawns a Void Gate at target location for 120 seconds. Every 4 seconds the gate makes a Voidspawn that travels down the nearest lane and decays over time. Voidspawn explodes when attacking structures. Voidspawn ignore champions and void targets. The first and every fourth voidspawn gain 15% of your maximum health as damage (120 second cooldown).</item>
+    </string-array>
+</resources>

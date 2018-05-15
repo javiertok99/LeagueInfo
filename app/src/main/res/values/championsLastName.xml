@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="secondName">
+        <item>the Darkin Blade</item>
+        <item>the Nine-Tailed Fox</item>
+        <item>the Fist of Shadow</item>
+        <item>the Minotaur</item>
+        <item>the Sad Mummy</item>
+        <item>the Cryophoenix</item>
+        <item>the Dark Child</item>
+        <item>the Frost Archer</item>
+        <item>the Star Forger</item>
+        <item>the Emperor of the Sands</item>
+        <item>the Wandering Caretaker</item>
+        <item>the Great Steam Golem</item>
+        <item>the Burning Vengeance</item>
+        <item>the Heart of the Freljord</item>
+        <item>the Sheriff of Piltover</item>
+        <item>the Steel Shadow</item>
+        <item>"the Serpent's Embrace"</item>
+        <item>the Terror of the Void</item>
+        <item>the Daring Bombardier</item>
+        <item>the Hand of Noxus</item>
+        <item>Scorn of the Moon</item>
+        <item>the Madman of Zaun</item>
+        <item>the Glorious Executioner</item>
+        <item>the Boy Who Shattered Time</item>
+        <item>the Spider Queen</item>
+        <item>"Agony's Embrace"</item>
+        <item>the Prodigal Explorer</item>
+        <item>the Harbinger of Doom</item>
+        <item>the Grand Duelist</item>
+        <item>the Tidal Trickster</item>
+        <item>the Colossus</item>
+        <item>the Saltwater Scourge</item>
+        <item>the Might of Demacia</item>
+        <item>the Missing Link</item>
+        <item>the Rabble Rouser</item>
+        <item>the Outlaw</item>
+        <item>the Shadow of War</item>
+        <item>the Revered Inventor</item>
+        <item>the Kraken Priestess</item>
+        <item>the Blade Dancer</item>
+        <item>the Green Father</item>
+        <item>"the Storm's Fury"</item>
+        <item>the Exemplar of Demacia</item>
+        <item>Grandmaster at Arms</item>
+        <item>the Defender of Tomorrow</item>
+        <item>the Virtuoso</item>
+        <item>the Loose Cannon</item>
+        <item>Daughter of the Void</item>
+        <item>the Spear of Vengeance</item>
+        <item>the Enlightened One</item>
+        <item>the Deathsinger</item>
+        <item>the Void Walker</item>
+        <item>the Sinister Blade</item>
+        <item>the Judicator</item>
+        <item>the Shadow Reaper</item>
+        <item>the Heart of the Tempest</item>
+        <item>the Voidreaver</item>
+        <item>the Eternal Hunters</item>
+        <item>the Cantankerous Cavalier</item>
+        <item>the Mouth of the Abyss</item>
+        <item>the Deceiver</item>
+        <item>the Blind Monk</item>
+        <item>the Radiant Dawn</item>
+        <item>the Ice Witch</item>
+        <item>the Purifier</item>
+        <item>the Fae Sorceress</item>
+        <item>the Lady of Luminosity</item>
+        <item>Shard of the Monolith</item>
+        <item>the Prophet of the Void</item>
+        <item>the Twisted Treant</item>
+        <item>the Wuju Bladesman</item>
+        <item>the Bounty Hunter</item>
+        <item>the Iron Revenant</item>
+        <item>Fallen Angel</item>
+        <item>the Tidecaller</item>
+        <item>the Curator of the Sands</item>
+        <item>the Titan of the Depths</item>
+        <item>the Bestial Huntress</item>
+        <item>the Eternal Nightmare</item>
+        <item>the Yeti Rider</item>
+        <item>the Berserker</item>
+        <item>the Lady of Clockwork</item>
+        <item>the Fire below the Mountain</item>
+        <item>the Artisan of War</item>
+        <item>Keeper of the Hammer</item>
+        <item>"Demacia's Wings"</item>
+        <item>the Charmer</item>
+        <item>the Armordillo</item>
+        <item>the Void Burrower</item>
+        <item>the Butcher of the Sands</item>
+        <item>the Pridestalker</item>
+        <item>the Exile</item>
+        <item>the Mechanized Menace</item>
+        <item>the Rune Mage</item>
+        <item>Fury of the North</item>
+        <item>the Demon Jester</item>
+        <item>the Eye of Twilight</item>
+        <item>the Half-Dragon</item>
+        <item>the Mad Chemist</item>
+        <item>the Undead Juggernaut</item>
+        <item>the Battle Mistress</item>
+        <item>the Crystal Vanguard</item>
+        <item>Maven of the Strings</item>
+        <item>the Starchild</item>
+        <item>the Noxian Grand General</item>
+        <item>the Dark Sovereign</item>
+        <item>the River King</item>
+        <item>the Stoneweaver</item>
+        <item>"the Blade's Shadow"</item>
+        <item>the Shield of Valoran</item>
+        <item>the Swift Scout</item>
+        <item>the Chain Warden</item>
+        <item>the Yordle Gunner</item>
+        <item>the Troll King</item>
+        <item>the Barbarian King</item>
+        <item>the Card Master</item>
+        <item>the Plague Rat</item>
+        <item>the Spirit Walker</item>
+        <item>the Dreadnought</item>
+        <item>the Arrow of Retribution</item>
+        <item>the Night Hunter</item>
+        <item>the Tiny Master of Evil</item>
+        <item>the Eye of the Void</item>
+        <item>the Piltover Enforcer</item>
+        <item>the Machine Herald</item>
+        <item>the Crimson Reaper</item>
+        <item>"the Thunder's Roar"</item>
+        <item>the Uncaged Wrath of Zaun</item>
+        <item>the Monkey King</item>
+        <item>the Rebel</item>
+        <item>the Magus Ascendant</item>
+        <item>the Seneschal of Demacia</item>
+        <item>the Unforgiven</item>
+        <item>Shepherd of Souls</item>
+        <item>the Secret Weapon</item>
+        <item>the Master of Shadows</item>
+        <item>the Hexplosives Expert</item>
+        <item>the Chronokeeper</item>
+        <item>the Aspect of Twilight</item>
+        <item>Rise of the Thorns</item>
+    </string-array>
+</resources>

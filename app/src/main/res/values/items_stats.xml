@@ -1,0 +1,678 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="abyssalmaskStat">
+        <item>+350 health</item>
+        <item>+300 mana</item>
+        <item>+55 magic resistance</item>
+        <item>+10% cooldown reduction</item>
+    </string-array>
+    <string-array name="adaptivehelmStat">
+        <item>+10% cooldown reduction</item>
+        <item>+350 health</item>
+        <item>+100% base health regeneration</item>
+        <item>+55 magic resistance</item>
+    </string-array>
+    <string-array name="aegisofthelegionStat">
+        <item>+30 armor</item>
+        <item>+30 magic resistance</item>
+    </string-array>
+    <string-array name="aetherwispStat">
+        <item>+30 ability power</item>
+    </string-array>
+    <string-array name="amplifyingtomeStat">
+        <item>+20 ability power</item>
+    </string-array>
+    <string-array name="ancientcoinStat">
+        <item>+5% cooldown reduction</item>
+        <item>+2 gold per 10 seconds</item>
+        <item>+5 movement speed</item>
+    </string-array>
+    <string-array name="archangelsstaffStat">
+        <item>+50 ability power</item>
+        <item>+10% cooldown reduction</item>
+        <item>+650 mana</item>
+    </string-array>
+    <string-array name="ardentcenserStat">
+        <item>+60 ability power</item>
+        <item>+10% cooldown reduction</item>
+        <item>UNIQUE: +10% heal and shield power</item>
+        <item>+50% base mana regeneration</item>
+    </string-array>
+    <string-array name="athenesunholygrailStat">
+        <item>+60 ability power</item>
+        <item>+10% cooldown reduction</item>
+        <item>UNIQUE: +10% heal and shield power</item>
+        <item>+50% base mana regeneration</item>
+    </string-array>
+    <string-array name="bamiscinderStat">
+        <item>+200 health</item>
+    </string-array>
+    <string-array name="bannerofcommandStat">
+        <item>+60 armor</item>
+        <item>+10% cooldown reduction</item>
+        <item>+125% base health regeneration</item>
+        <item>+30 magic resistance</item>
+    </string-array>
+    <string-array name="bansheesveilStat">
+        <item>+70 ability power</item>
+        <item>+10% cooldown reduction</item>
+        <item>+60 magic resistance</item>
+    </string-array>
+    <string-array name="berserkergreavesStat">
+        <item>+35% attack speed</item>
+    </string-array>
+    <string-array name="bfswordStat">
+        <item>+40 attack damage</item>
+    </string-array>
+    <string-array name="bilgewatercutlassStat">
+        <item>+25 attack damage</item>
+        <item>+10% life steal</item>
+    </string-array>
+    <string-array name="bladeoftheruinedkingStat">
+        <item>+40 attack damage</item>
+        <item>+25% attack speed</item>
+        <item>+12% life steal</item>
+    </string-array>
+    <string-array name="blastingwandStat">
+        <item>+40 ability power</item>
+    </string-array>
+    <string-array name="bootsofmobilityStat">
+        <item>No stats increase</item>
+    </string-array>
+    <string-array name="bootsofspeedStat">
+        <item>No stats increase</item>
+    </string-array>
+    <string-array name="bootsofswiftnessStat">
+        <item>No stats increase</item>
+    </string-array>
+    <string-array name="bramblevestStat">
+        <item>+35 armor</item>
+    </string-array>
+    <string-array name="brawlersglovesStat">
+        <item>+10% critical strike chance</item>
+    </string-array>
+    <string-array name="catalystofaeonsStat">
+        <item>+225 health</item>
+        <item>+300 mana</item>
+    </string-array>
+    <string-array name="caulfieldswarhammerStat">
+        <item>+25 attack damage</item>
+        <item>UNIQUE: +10% cooldown reduction</item>
+    </string-array>
+    <string-array name="chainvestStat">
+        <item>+40 armor</item>
+    </string-array>
+    <string-array name="chaliceofharmonyStat">
+        <item>+30 magic resistance</item>
+        <item>+50% base mana regeneration</item>
+    </string-array>
+    <string-array name="cloakofagilityStat">
+        <item>+20% critical strike chance</item>
+    </string-array>
+    <string-array name="clotharmorStat">
+        <item>+15 armor</item>
+    </string-array>
+    <string-array name="controlwardStat">
+        <item>controlward</item>
+        <item>controlward</item>
+        <item>controlward</item>
+        <item>controlward</item>
+    </string-array>
+    <string-array name="corruptingpotionStat">
+        <item>For 12 seconds, regenerates 5.20 health and 3.125 mana every half-second for a total of 125 health and 75 mana as well as grants TOUCH OF CORRUPTION.</item>
+    </string-array>
+    <string-array name="crystallinebracerStat">
+        <item>+200 health</item>
+        <item>+50% base health regeneration</item>
+    </string-array>
+    <string-array name="cullStat">
+        <item>+7 attack damage</item>
+        <item>+3 health on-hit</item>
+    </string-array>
+    <string-array name="daggerStat">
+        <item>+12% attack speed</item>
+    </string-array>
+    <string-array name="deadmansplateStat">
+        <item>+60 armor</item>
+        <item>+425 health</item>
+    </string-array>
+    <string-array name="deathsdanceStat">
+        <item>+80 attack damage</item>
+        <item>+10% cooldown reduction</item>
+    </string-array>
+    <string-array name="doransbladeStat">
+        <item>+8 attack damage</item>
+        <item>+80 health</item>
+        <item>+3% life steal</item>
+    </string-array>
+    <string-array name="doransringStat">
+        <item>+15 ability power</item>
+        <item>+60 health</item>
+        <item>+50% base mana regeneration</item>
+    </string-array>
+    <string-array name="doransshieldStat">
+        <item>+80 health</item>
+    </string-array>
+    <string-array name="duskbladeofdraktharrStat">
+        <item>+55 attack damage</item>
+        <item>+10% cooldown reduction</item>
+    </string-array>
+    <string-array name="edgeofnightStat">
+        <item>+55 attack damage</item>
+        <item>+250 health</item>
+    </string-array>
+    <string-array name="elixirofironStat">
+        <item>Grants 300 bonus health, 25% Tenacity icon Tenacity, increased champion size, and PATH OF IRON for 180 seconds.</item>
+    </string-array>
+    <string-array name="elixirofsorceryStat">
+        <item>Grants 50 ability power, 15 flat mana regeneration, and SORCERY for 180 seconds.</item>
+    </string-array>
+    <string-array name="elixirofwrathStat">
+        <item>Grants 30 bonus attack damage and BLOODLUST for 180 seconds.</item>
+    </string-array>
+    <string-array name="essencereaverStat">
+        <item>+70 attack damage</item>
+        <item>UNIQUE: +10% cooldown reduction</item>
+        <item>+20% critical strike chance</item>
+    </string-array>
+    <string-array name="executionerscallingStat">
+        <item>+15 attack damage</item>
+    </string-array>
+    <string-array name="faeriecharmStat">
+        <item>+25% base mana regeneration</item>
+    </string-array>
+    <string-array name="farsightalterationStat">
+        <item>farsightalteration</item>
+        <item>farsightalteration</item>
+        <item>farsightalteration</item>
+        <item>farsightalteration</item>
+    </string-array>
+    <string-array name="fiendishcodexStat">
+        <item>+30 ability power</item>
+        <item>UNIQUE: +10% cooldown reduction</item>
+    </string-array>
+    <string-array name="forbiddenidolStat">
+        <item>UNIQUE: +10% cooldown reduction</item>
+        <item>UNIQUE: +8% heal and shield power </item>
+        <item>+50% base mana regeneration</item>
+    </string-array>
+    <string-array name="frostfangStat">
+        <item>+20 ability power</item>
+        <item>+10% cooldown reduction</item>
+        <item>+2 gold  per 10 seconds</item>
+        <item>+50% base mana regeneration</item>
+    </string-array>
+    <string-array name="frozenheartStat">
+        <item>+100 armor</item>
+        <item>+20% cooldown reduction</item>
+        <item>+400 mana</item>
+    </string-array>
+    <string-array name="frozenmalletStat">
+        <item>+30 attack damage</item>
+        <item>+700 health</item>
+    </string-array>
+    <string-array name="gargoylestoneplateStat">
+        <item>+40 armor</item>
+        <item>+40 magic resistance</item>
+    </string-array>
+    <string-array name="giantsbeltStat">
+        <item>+380 health</item>
+    </string-array>
+    <string-array name="giantslayerStat">
+        <item>+10 attack damage</item>
+    </string-array>
+    <string-array name="glacialshroudStat">
+        <item>+20 armor</item>
+        <item>UNIQUE: +10% cooldown reduction</item>
+        <item>+250 mana</item>
+    </string-array>
+    <string-array name="guardianangelStat">
+        <item>+30 armor</item>
+        <item>+40 attack damage</item>
+    </string-array>
+    <string-array name="guinsoosragebladeStat">
+        <item>+25 ability power</item>
+        <item>+25 attack damage</item>
+        <item>+25% attack speed</item>
+    </string-array>
+    <string-array name="hauntingguiseStat">
+        <item>+35 ability power</item>
+        <item>+200 health</item>
+    </string-array>
+    <string-array name="healthpotionStat">
+        <item>Regenerates 5 health every half-second for 15 seconds, restoring a total of 150 health.</item>
+    </string-array>
+    <string-array name="hexdrinkerStat">
+        <item>+20 attack damage</item>
+        <item>+35 magic resistance</item>
+    </string-array>
+    <string-array name="hextechglp800Stat">
+        <item>+80 ability power</item>
+        <item>+10% cooldown reduction</item>
+        <item>+500 mana</item>
+    </string-array>
+    <string-array name="hextechgunbladeStat">
+        <item>+80 ability power</item>
+        <item>+40 attack damage</item>
+    </string-array>
+    <string-array name="hextechprotobelt01Stat">
+        <item>+60 ability power</item>
+        <item>+10% cooldown reduction</item>
+        <item>+300 health</item>
+    </string-array>
+    <string-array name="hextechrevolverStat">
+        <item>+40 ability power</item>
+    </string-array>
+    <string-array name="huntersmacheteStat">
+        <item>+10% life steal vs. monsters</item>
+    </string-array>
+    <string-array name="hunterspotionStat">
+        <item>Regenerates 3.75 health and 2.18 mana every half-second for 8 seconds, restoring a total of 60 health and 35 mana.</item>
+    </string-array>
+    <string-array name="hunterstalismanStat">
+        <item>+150% base mana regeneration in the jungle</item>
+    </string-array>
+    <string-array name="iceborngauntletStat">
+        <item>+65 armor</item>
+        <item>+20% cooldown reduction</item>
+        <item>+500 mana</item>
+    </string-array>
+    <string-array name="infinityedgeStat">
+        <item>+70 attack damage</item>
+        <item>+20% critical strike chancee</item>
+    </string-array>
+    <string-array name="ionianbootsoflucidityStat">
+        <item>UNIQUE: +10% cooldown reduction</item>
+    </string-array>
+    <string-array name="jaurimsfistStat">
+        <item>+15 attack damage</item>
+        <item>+200 health</item>
+    </string-array>
+    <string-array name="kindlegemStat">
+        <item>UNIQUE: +10% cooldown reduction</item>
+        <item>+200 health</item>
+    </string-array>
+    <string-array name="kircheisshardStat">
+        <item>+15% attack speed</item>
+    </string-array>
+    <string-array name="knightsvowStat">
+        <item>+40 armor</item>
+        <item>+10% cooldown reduction</item>
+        <item>+250 health</item>
+    </string-array>
+    <string-array name="lastwhisperStat">
+        <item>+10 attack damage</item>
+    </string-array>
+    <string-array name="liandrystormentStat">
+        <item>+80 ability power</item>
+        <item>+300 health</item>
+    </string-array>
+    <string-array name="lichbaneStat">
+        <item>+80 ability power</item>
+        <item>+10% cooldown reduction</item>
+        <item>+7% movement speed</item>
+        <item>+250 mana</item>
+    </string-array>
+    <string-array name="locketoftheironsolariStat">
+        <item>+30 armor</item>
+        <item>+60 magic resistance</item>
+    </string-array>
+    <string-array name="longswordStat">
+        <item>+10 attack damage</item>
+    </string-array>
+    <string-array name="lorddominiksregardsStat">
+        <item>+50 attack damage</item>
+    </string-array>
+    <string-array name="lostchapterStat">
+        <item>+25 ability power</item>
+        <item>+300 mana</item>
+    </string-array>
+    <string-array name="ludensechoStat">
+        <item>+90 ability power</item>
+        <item>+10% cooldown reduction</item>
+        <item>+500 mana</item>
+    </string-array>
+    <string-array name="manamuneStat">
+        <item>+25 attack damage</item>
+        <item>+250 mana</item>
+    </string-array>
+    <string-array name="mawofmalmortiusStat">
+        <item>+50 attack damage</item>
+        <item>+10% cooldown reduction</item>
+        <item>+45 magic resistance</item>
+    </string-array>
+    <string-array name="mejaissoulstealerStat">
+        <item>+20 ability power</item>
+        <item>+200 mana</item>
+    </string-array>
+    <string-array name="mercurialscimitarStat">
+        <item>+65 attack damage</item>
+        <item>+10% life steal</item>
+        <item>+35 magic resistance</item>
+    </string-array>
+    <string-array name="mercurystreadsStat">
+        <item>+25 magic resistance</item>
+    </string-array>
+    <string-array name="mikaelscrucibleStat">
+        <item>+10% cooldown reduction</item>
+        <item>UNIQUE: +20% heal and shield power</item>
+        <item>+40 magic resistance</item>
+        <item>+100% base mana regeneration</item>
+    </string-array>
+    <string-array name="morellonomiconStat">
+        <item>+80 ability power</item>
+        <item>+300 health</item>
+    </string-array>
+    <string-array name="mortalreminderStat">
+        <item>+50 attack damage</item>
+    </string-array>
+    <string-array name="nashorstoothStat">
+        <item>+80 ability power</item>
+        <item>+50% attack speed</item>
+        <item>UNIQUE: +20% cooldown reduction</item>
+    </string-array>
+    <string-array name="needlesslylargerodStat">
+        <item>+60 ability power</item>
+    </string-array>
+    <string-array name="negatroncloakStat">
+        <item>+40 magic resistance</item>
+    </string-array>
+    <string-array name="ninjatabiStat">
+        <item>+20 armor</item>
+    </string-array>
+    <string-array name="nomadsmedallionStat">
+        <item>+10% cooldown reduction</item>
+        <item>+2 gold per 10 seconds</item>
+        <item>+50% base health regeneration</item>
+        <item>+10 movement speed</item>
+    </string-array>
+    <string-array name="nullmagicmantleStat">
+        <item>+25 magic resistance</item>
+    </string-array>
+    <string-array name="oblivionorbStat">
+        <item>+25 ability power</item>
+        <item>+200 health</item>
+    </string-array>
+    <string-array name="ohmwreckerStat">
+        <item>+50 armor</item>
+        <item>+10% cooldown reduction</item>
+        <item>+300 health</item>
+        <item>+150% base health regeneration</item>
+    </string-array>
+    <string-array name="oraclelensStat">
+        <item>oraclelens</item>
+        <item>oraclelens</item>
+        <item>oraclelens</item>
+        <item>oraclelens</item>
+    </string-array>
+    <string-array name="phageStat">
+        <item>+15 attack damage</item>
+        <item>+200 health</item>
+    </string-array>
+    <string-array name="phantomdancerStat">
+        <item>+45% attack speed</item>
+        <item>+30% critical strike chance</item>
+        <item>+5% movement speed</item>
+    </string-array>
+    <string-array name="pickaxeStat">
+        <item>+25 attack damage</item>
+    </string-array>
+    <string-array name="poachersdirkStat">
+        <item>+10 attack damage</item>
+    </string-array>
+    <string-array name="quicksilversashStat">
+        <item>+30 magic resistance</item>
+    </string-array>
+    <string-array name="rabadonsdeathcapStat">
+        <item>+120 ability power</item>
+    </string-array>
+    <string-array name="randuinsomenStat">
+        <item>+60 armor</item>
+        <item>+400 health</item>
+    </string-array>
+    <string-array name="rapidfirecannonStat">
+        <item>+30% attack speed</item>
+        <item>+30% critical strike chance</item>
+        <item>+5% movement speed</item>
+    </string-array>
+    <string-array name="raptorcloakStat">
+        <item>+30 armor</item>
+        <item>+125% base health regeneration</item>
+    </string-array>
+    <string-array name="ravenoushydraStat">
+        <item>+80 attack damage</item>
+        <item>+100% base health regeneration</item>
+        <item>+12% life steal</item>
+    </string-array>
+    <string-array name="recurvebowStat">
+        <item>+25% attack speed</item>
+    </string-array>
+    <string-array name="redemptionStat">
+        <item>+10% cooldown reduction</item>
+        <item>UNIQUE: +10% heal and shield power</item>
+        <item>+200 health</item>
+        <item>+50% base health regeneration</item>
+        <item>+150% base mana regeneration</item>
+    </string-array>
+    <string-array name="refillablepotionStat">
+        <item>Regenerates 5.21 health every half-second for 12 seconds, restoring a total of 125 health.</item>
+    </string-array>
+    <string-array name="rejuvenationbeadStat">
+        <item>+50% base health regeneration</item>
+    </string-array>
+    <string-array name="relicshieldStat">
+        <item>+1 gold per 10 seconds</item>
+        <item>+50 health</item>
+    </string-array>
+    <string-array name="remnantoftheascendedStat">
+        <item>+10% cooldown reduction</item>
+        <item>+2 gold per 10 seconds</item>
+        <item>+200 health</item>
+        <item>+125% base health regeneration</item>
+        <item>+10 movement speed</item>
+    </string-array>
+    <string-array name="remnantoftheaspectStat">
+        <item>+10% cooldown reduction</item>
+        <item>+1 gold per 10 seconds</item>
+        <item>+350 health</item>
+        <item>+200% base health regeneration</item>
+    </string-array>
+    <string-array name="remnantofthewatchersStat">
+        <item>+35 ability power</item>
+        <item>+10% cooldown reduction</item>
+        <item>+2 gold per 10 seconds</item>
+        <item>+200 health</item>
+        <item>+50% base mana regeneration</item>
+    </string-array>
+    <string-array name="righteousgloryStat">
+        <item>+30 armor</item>
+        <item>+10% cooldown reduction</item>
+        <item>+400 health</item>
+        <item>+100% base health regeneration</item>
+        <item>+300 mana</item>
+    </string-array>
+    <string-array name="rodofagesStat">
+        <item>+60 ability power</item>
+        <item>+300 health</item>
+        <item>+300 mana</item>
+    </string-array>
+    <string-array name="rubycrystalStat">
+        <item>+150 health</item>
+    </string-array>
+    <string-array name="runaanshurricaneStat">
+        <item>+40% attack speed</item>
+        <item>+30% critical strike chance</item>
+        <item>+7% movement speed</item>
+    </string-array>
+    <string-array name="rylaiscrystalscepterStat">
+        <item>+85 ability power</item>
+        <item>+300 health</item>
+    </string-array>
+    <string-array name="sapphirecrystalStat">
+        <item>+250 mana</item>
+    </string-array>
+    <string-array name="seekersarmguardStat">
+        <item>+20 ability power</item>
+        <item>+30 armor</item>
+    </string-array>
+    <string-array name="serrateddirkStat">
+        <item>+25 attack damage</item>
+    </string-array>
+    <string-array name="sheenStat">
+        <item>+10% cooldown reduction</item>
+        <item>+250 mana</item>
+    </string-array>
+    <string-array name="shurelyasreverieStat">
+        <item>+40 ability power</item>
+        <item>UNIQUE: +10% cooldown reduction</item>
+        <item>s+200 health</item>
+    </string-array>
+    <string-array name="skirmisherssabreStat">
+        <item>+10% life steal against monsters</item>
+        <item>+225% base mana regeneration while in the jungle</item>
+    </string-array>
+    <string-array name="sorcerersshoesStat">
+        <item>+18 magic penetration</item>
+    </string-array>
+    <string-array name="spectrescowlStat">
+        <item>+250 health</item>
+        <item>+25 magic resistance</item>
+    </string-array>
+    <string-array name="spellbinderStat">
+        <item>+100 ability power</item>
+        <item>+10% movement speed</item>
+    </string-array>
+    <string-array name="spellthiefsedgeStat">
+        <item>+10 ability power</item>
+        <item>+2 gold per 10 seconds</item>
+        <item>+25% base mana regeneration</item>
+    </string-array>
+    <string-array name="spiritvisageStat">
+        <item>+10% cooldown reduction</item>
+        <item>+450 health</item>
+        <item>+100% base health regeneration</item>
+        <item>+55 magic resistance</item>
+    </string-array>
+    <string-array name="stalkersbladeStat">
+        <item>+10% life steal against monsters</item>
+        <item>+225% base mana regeneration while in the jungle</item>
+    </string-array>
+    <string-array name="statikkshivStat">
+        <item>+35% attack speed</item>
+        <item>+30% critical strike chance</item>
+        <item>+5% movement speed</item>
+    </string-array>
+    <string-array name="steraksgageStat">
+        <item>+450 health</item>
+    </string-array>
+    <string-array name="stingerStat">
+        <item>+35% attack speed</item>
+        <item>UNIQUE: +10% cooldown reduction</item>
+    </string-array>
+    <string-array name="stopwatchStat">
+        <item>stopwatch</item>
+        <item>stopwatch</item>
+        <item>stopwatch</item>
+        <item>stopwatch</item>
+    </string-array>
+    <string-array name="sunfirecapeStat">
+        <item>+60 armor</item>
+        <item>+425 health</item>
+    </string-array>
+    <string-array name="targonsbraceStat">
+        <item>+1 gold per 10 seconds</item>
+        <item>+125 health</item>
+        <item>+50% base health regeneration</item>
+    </string-array>
+    <string-array name="tearofthegoddessStat">
+        <item>+250 mana</item>
+    </string-array>
+    <string-array name="theblackcleaverStat">
+        <item>+40 attack damage</item>
+        <item>+20% cooldown reduction</item>
+        <item>+400 health</item>
+    </string-array>
+    <string-array name="thebloodthirsterStat">
+        <item>+80 attack damage</item>
+    </string-array>
+    <string-array name="thedarksealStat">
+        <item>+15 ability power</item>
+        <item>+100 mana</item>
+        <item>+25% increased healing from potions and refillable potions.</item>
+    </string-array>
+    <string-array name="thornmailStat">
+        <item>+80 armor</item>
+        <item>+250 health</item>
+    </string-array>
+    <string-array name="tiamatStat">
+        <item>+25 attack damage</item>
+        <item>+50% base health regeneration</item>
+    </string-array>
+    <string-array name="titanichydraStat">
+        <item>+40 attack damage</item>
+        <item>+450 health</item>
+        <item>+100% base health regeneration</item>
+    </string-array>
+    <string-array name="trinityforceStat">
+        <item>+25 attack damage</item>
+        <item>+40% attack speed</item>
+        <item>+20% cooldown reduction</item>
+        <item>+250 health</item>
+        <item>+5% movement speed</item>
+        <item>+250 mana</item>
+    </string-array>
+    <string-array name="twinshadowsStat">
+        <item>+60 ability power</item>
+        <item>+10% cooldown reduction</item>
+        <item>+7% movement speed</item>
+    </string-array>
+    <string-array name="vampiricscepterStat">
+        <item>+15 attack damage</item>
+        <item>+10% life steal</item>
+    </string-array>
+    <string-array name="voidstaffStat">
+        <item>+70 ability power</item>
+    </string-array>
+    <string-array name="wardensmailStat">
+        <item>+40 armor</item>
+    </string-array>
+    <string-array name="wardingtotemStat">
+        <item>wardingtotem</item>
+        <item>wardingtotem</item>
+        <item>wardingtotem</item>
+        <item>wardingtotem</item>
+    </string-array>
+    <string-array name="warmogsarmorStat">
+        <item>UNIQUE: +10% cooldown reduction</item>
+        <item>+800 health</item>
+        <item>+200% base health regeneration</item>
+    </string-array>
+    <string-array name="witsendStat">
+        <item>+40% attack speed</item>
+        <item>+40 magic resistance</item>
+    </string-array>
+    <string-array name="youmuusghostbladeStat">
+        <item>+55 attack damage</item>
+        <item>+10% cooldown reduction</item>
+    </string-array>
+    <string-array name="zealStat">
+        <item>+15% attack speed</item>
+        <item>+20% critical strike chance</item>
+    </string-array>
+    <string-array name="zekesconvergenceStat">
+        <item>+60 armor</item>
+        <item>+10% cooldown reduction</item>
+        <item>+30 magic resistance</item>
+        <item>+250 mana</item>
+    </string-array>
+    <string-array name="zhonyashourglassStat">
+        <item>+70 ability power</item>
+        <item>+45 armor</item>
+        <item>+10% cooldown reduction</item>
+    </string-array>
+    <string-array name="zzrotportalStat">
+        <item>+55 armor</item>
+        <item>+125% base health regeneration</item>
+        <item>+55 magic resistance</item>
+    </string-array>
+</resources>

@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="items">
+        <item>"Abyssal Mask"</item>
+        <item>"Adaptive Helm"</item>
+        <item>"Aegis of the Legion"</item>
+        <item>"Aether Wisp"</item>
+        <item>"Amplifying Tome"</item>
+        <item>"Ancient Coin"</item>
+        <item>"Archangel's Staff"</item>
+        <item>"Ardent Censer"</item>
+        <item>"Athene's Unholy Grail"</item>
+        <item>"Bami's Cinder"</item>
+        <item>"Banner of Command"</item>
+        <item>"Banshee's Veil"</item>
+        <item>"Berserker Greaves"</item>
+        <item>"B.F. Sword"</item>
+        <item>"Bilgewater Cutlass"</item>
+        <item>"Blade of the Ruined King"</item>
+        <item>"Blasting Wand"</item>
+        <item>"Boots of Mobility"</item>
+        <item>"Boots of Speed"</item>
+        <item>"Boots of Swiftness"</item>
+        <item>"Bramblevest"</item>
+        <item>"Brawler's Gloves"</item>
+        <item>"Catalyst of Aeons"</item>
+        <item>"Caulfield's Warhammer"</item>
+        <item>"Chainvest"</item>
+        <item>"Chalice of Harmony"</item>
+        <item>"Cloak of Agility"</item>
+        <item>"Cloth Armor"</item>
+        <item>"Control Ward"</item>
+        <item>"Corrupting Potion"</item>
+        <item>"Crystalline Bracer"</item>
+        <item>"Cull"</item>
+        <item>"Dagger"</item>
+        <item>"Deadman's Plate"</item>
+        <item>"Death's Dance"</item>
+        <item>"Doran's Blade"</item>
+        <item>"Doran's Ring"</item>
+        <item>"Doran's Shield"</item>
+        <item>"Duskblade of Draktharr"</item>
+        <item>"Edge of Night"</item>
+        <item>"Elixir of Iron"</item>
+        <item>"Elixir of Sorcery"</item>
+        <item>"Elixir of Wrath"</item>
+        <item>"Essence Reaver"</item>
+        <item>"Executioner's Calling"</item>
+        <item>"Faerie Charm"</item>
+        <item>"Farsight Alteration"</item>
+        <item>"Fiendish Codex"</item>
+        <item>"Forbidden Idol"</item>
+        <item>"Frostfang"</item>
+        <item>"Frozen Heart"</item>
+        <item>"Frozen Mallet"</item>
+        <item>"Gargoyle Stoneplate"</item>
+        <item>"Giant's Belt"</item>
+        <item>"Giant Slayer"</item>
+        <item>"Glacial Shroud"</item>
+        <item>"Guardian Angel"</item>
+        <item>"Guinsoo's Rageblade"</item>
+        <item>"Haunting Guise"</item>
+        <item>"Health Potion"</item>
+        <item>"Hexdrinker"</item>
+        <item>"Hextech GLP-800"</item>
+        <item>"Hextech Gunblade"</item>
+        <item>"Hextech Protobelt-01"</item>
+        <item>"Hextech Revolver"</item>
+        <item>"Hunter's Machete"</item>
+        <item>"Hunter's Potion"</item>
+        <item>"Hunter's Talisman"</item>
+        <item>"Iceborn Gauntlet"</item>
+        <item>"Infinity Edge"</item>
+        <item>"Ionian Boots of Lucidity"</item>
+        <item>"Jaurim's Fist"</item>
+        <item>"Kindlegem"</item>
+        <item>"Kircheis' Shard"</item>
+        <item>"Knight's Vow"</item>
+        <item>"Last Whisper"</item>
+        <item>"Liandry's Torment"</item>
+        <item>"Lichbane"</item>
+        <item>"Locket of the Iron Solari"</item>
+        <item>"Long Sword"</item>
+        <item>"Lord Dominik's Regards"</item>
+        <item>"Lost Chapter"</item>
+        <item>"Luden's Echo"</item>
+        <item>"Manamune"</item>
+        <item>"Maw of Malmortius"</item>
+        <item>"Mejai's Soulstealer"</item>
+        <item>"Mercurial Scimitar"</item>
+        <item>"Mercurys' Treads"</item>
+        <item>"Mikael's Crucible"</item>
+        <item>"Morellonomicon"</item>
+        <item>"Mortal Reminder"</item>
+        <item>"Nashor's Tooth"</item>
+        <item>"Needlessly Large Rod"</item>
+        <item>"Negatron Cloak"</item>
+        <item>"Ninja Tabi"</item>
+        <item>"Nomads' Medallion"</item>
+        <item>"Null-Magic Mantle"</item>
+        <item>"Oblivion Orb"</item>
+        <item>"Ohmwrecker"</item>
+        <item>"Oracle Lens"</item>
+        <item>"Phage"</item>
+        <item>"Phantom Dancer"</item>
+        <item>"Pickaxe"</item>
+        <item>"Poacher's Dirk"</item>
+        <item>"Quicksilver Sash"</item>
+        <item>"Rabadon's Deathcap"</item>
+        <item>"Randuin's Omen"</item>
+        <item>"Rapidfire Cannon"</item>
+        <item>"Raptor Cloak"</item>
+        <item>"Ravenous Hydra"</item>
+        <item>"Recurve Bow"</item>
+        <item>"Redemption"</item>
+        <item>"Refillable Potion"</item>
+        <item>"Rejuvenation Bead"</item>
+        <item>"Relic Shield"</item>
+        <item>"Remnant of the Ascended"</item>
+        <item>"Remnant of the Aspect"</item>
+        <item>"Remnant of the Watchers"</item>
+        <item>"Righteous Glory"</item>
+        <item>"Rod of Ages"</item>
+        <item>"Ruby Crystal"</item>
+        <item>"Runaan's Hurricane"</item>
+        <item>"Rylai's Crystal Scepter"</item>
+        <item>"Sapphire Crystal"</item>
+        <item>"Seeker's Armguard"</item>
+        <item>"Serrated Dirk"</item>
+        <item>"Sheen"</item>
+        <item>"Shurelya's Reverie"</item>
+        <item>"Skirmisher's Sabre"</item>
+        <item>"Sorcerer's Shoes"</item>
+        <item>"Spectre's Cowl"</item>
+        <item>"Spellbinder"</item>
+        <item>"Spellthief's Edge"</item>
+        <item>"Spirit Visage"</item>
+        <item>"Stalker's Blade"</item>
+        <item>"Statikk Shiv"</item>
+        <item>"Steraks' Gage"</item>
+        <item>"Stinger"</item>
+        <item>"Stopwatch"</item>
+        <item>"Sunfire Cape"</item>
+        <item>"Targon's Brace"</item>
+        <item>"Tear of the Goddess"</item>
+        <item>"The Black Cleaver"</item>
+        <item>"The Blood Thirster"</item>
+        <item>"The Dark Seal"</item>
+        <item>"Thornmail"</item>
+        <item>"Tiamat"</item>
+        <item>"Titanic Hydra"</item>
+        <item>"Trinity Force"</item>
+        <item>"Twin Shadows"</item>
+        <item>"Vampiric Scepter"</item>
+        <item>"Void Staff"</item>
+        <item>"Warding Totem"</item>
+        <item>"Warmog's Armor"</item>
+        <item>"Wit's End"</item>
+        <item>"Youmuu's Ghostblade"</item>
+        <item>"Zeal"</item>
+        <item>"Zeke's Convergence"</item>
+        <item>"Zhonya's Hourglass"</item>
+        <item>"ZZ'rot Portal"</item>
+    </string-array>
+</resources>

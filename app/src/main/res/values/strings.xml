@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">League Info</string>
+    <string name="btn1">Champions</string>
+    <string name="btn2">Items</string>
+    <string name="top">Top</string>
+    <string name="mid">Mid</string>
+    <string name="jg">Jungle</string>
+    <string name="sp">Support</string>
+    <string name="adc">ADC</string>
+    <string name="reset">Reset</string>
+</resources>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ChampionDetails">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/ivChamp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/aatrox" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tvName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Aatrox"
+                android:textColor="@android:color/black"
+                android:textSize="40sp" />
+
+            <TextView
+                android:id="@+id/tvChampion2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="the Terror of the Void"
+                android:textColor="@android:color/black"
+                android:textSize="27sp" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <ImageButton
+            android:id="@+id/ibPassive"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.2"
+            app:srcCompat="@drawable/aatroxpassive" />
+
+        <ImageButton
+            android:id="@+id/ibQ"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.2"
+            app:srcCompat="@drawable/aatroxq" />
+
+        <ImageButton
+            android:id="@+id/ibW"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.2"
+            app:srcCompat="@drawable/aatroxw" />
+
+        <ImageButton
+            android:id="@+id/ibE"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.2"
+            app:srcCompat="@drawable/aatroxe" />
+
+        <ImageButton
+            android:id="@+id/ibR"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.2"
+            app:srcCompat="@drawable/aatroxr" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tvSkillDesc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Aatrox fills up his Blood Well through his abilities. When filled, Aatrox becomes Hellbent for as long as he stays in combat with champions or monsters, granting him attack damage, attack speed, and the ability to survive fatal damage."
+        android:textColor="@android:color/black"
+        android:textSize="20sp" />
+
+</LinearLayout>

@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="abyssalmaskCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="adaptivehelmCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="aegisofthelegionCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="aetherwispCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="amplifyingtomeCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="ancientcoinCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="archangelstaffCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="ardentcenserCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="athenesunholygrailCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="bamiscinderCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="bannerofcommandCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="bansheesveilCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="berserkergreavesCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="bfswordCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="bilgewatercutlassCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="bladeoftheruinedkingCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="blastingwandCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="bootsofmobilityCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="bootsofspeedCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="bootsofswiftnessCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="bramblevestCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="brawlersglovesCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="catalystofaeonsCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="caulfieldswarhammerCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="chainvestCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="chaliceofharmonyCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="cloakofagilityCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="clotharmorCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="controlwardCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="corruptingpotionCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="crystallinebracerCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="cullCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="daggerCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="deadmansplateCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="deathsdanceCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="doransbladeCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="doransringCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="doransshieldCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="duskbladeofdraktharrCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="edgeofnightCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="elixirofironCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="elixirofsorceryCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="elixirofwrathCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="essencereaverCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="executionerscallingCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="faeriecharmCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="farsightalterationCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="fiendishcodexCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="forbiddenidolCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="frostfangCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="frozenheartCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="frozenmalletCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="gargoylestoneplateCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="giantsbeltCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="giantslayerCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="glacialshroudCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="guardianangelCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="guinsoosragebladdeCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="hauntingguiseCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="healthpotionCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="hexdrinkerCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="hextechglp800Cost">
+        <item>0</item>
+    </string-array>
+    <string-array name="hextechgunbladeCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="hextechprotobelt01Cost">
+        <item>0</item>
+    </string-array>
+    <string-array name="hextechrevolverCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="huntersmacheteCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="hunterspotionCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="hunterstalismanCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="iceborngauntletCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="infinityedgeCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="ionianbootsoflucidityCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="jaurimsfistCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="kindlegemCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="kircheisshardCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="knightsvowCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="lastwhisperCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="liandrystormentCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="lichbaneCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="locketoftheironsolariCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="longswordCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="lorddominiksregardsCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="lostchapterCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="ludensechoCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="manamuneCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="mawofmalmortiusCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="mejaissoulstealerCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="mecurialscimitarCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="mercurystreadsCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="mikaelscrucibleCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="morellonomiconCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="mortalreminderCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="nashorstoothCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="needlesslylargerodCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="negatroncloakCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="ninjatabiCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="nomadsmedallionCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="nullmagicmantleCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="oblivionorbCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="ohmwreckerCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="oraclelensCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="phageCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="phantomdancerCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="pickaxeCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="poachersdirkCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="quicksilversashCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="rabadonsdeathcapCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="randuinsomenCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="rapidfirecannonCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="raptorcloakCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="ravenoushydraCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="recurvebowCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="redemptionCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="refillablepotionCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="rejuvenationbeadCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="relicshieldCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="remnantoftheascendedCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="remnantoftheaspectCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="remnantofthewatchersCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="righteousgloryCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="rodofagesCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="rubycrystalCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="runaanshurricaneCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="rylaiscrystalscepterCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="sapphirecrystalCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="seekersarmguardCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="serrateddirkCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="sheenCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="shurelyasreverieCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="skirmisherssabreCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="sorcerersshoesCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="spectrescowlCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="spellbinderCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="spellthiefsedgeCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="spiritvisageCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="stalkersbladeCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="statikkshivCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="steraksgageCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="stingerCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="stopwatchCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="sunfirecapeCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="targonsbraceCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="tearofthegoddessCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="theblackcleaverCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="thebloodthirsterCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="thedarksealCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="thornmailCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="tiamatCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="titanichydraCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="trinityforceCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="twinshadowsCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="vampiricscepterCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="voidstaffCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="wardensmailCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="wardingtotemCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="warmogsarmorCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="witsendCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="youmuusghostbladeCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="zealCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="zekesconvergenceCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="zhonyashourglassCost">
+        <item>0</item>
+    </string-array>
+    <string-array name="zzrotportalCost">
+        <item>0</item>
+    </string-array>
+</resources>

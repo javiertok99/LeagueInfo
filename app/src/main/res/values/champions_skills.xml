@@ -1,0 +1,983 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="aatrox">
+        <item>Aatrox fills up his Blood Well through his abilities. When filled, Aatrox becomes Hellbent for as long as he stays in combat with champions or monsters, granting him attack damage, attack speed, and the ability to survive fatal damage.</item>
+        <item>Aatrox takes flight and slams down at a targeted location, dealing damage and knocking up enemies at the center of impact.</item>
+        <item>While toggled on Aatrox deals bonus damage and fills a portion of his Blood Well every third subsequent attack. While toggled off Aatrox restores Health every third subsequent attack.</item>
+        <item>Aatrox unleashes the power of his blade, dealing damage to enemies hit and slowing them.</item>
+        <item>Aatrox draws in the blood of his foes, damaging all nearby enemy champions around him and gaining increased Attack Speed and bonus Attack Range for a short duration.</item>
+    </string-array>
+    <string-array name="ahri">
+        <item>Ahri</item>
+        <item>Ahri</item>
+        <item>Ahri</item>
+        <item>Ahri</item>
+        <item>Ahri</item>
+    </string-array>
+    <string-array name="akali">
+        <item>Akali</item>
+        <item>Akali</item>
+        <item>Akali</item>
+        <item>Akali</item>
+        <item>Akali</item>
+    </string-array>
+    <string-array name="alistar">
+        <item>Alistar</item>
+        <item>Alistar</item>
+        <item>Alistar</item>
+        <item>Alistar</item>
+        <item>Alistar</item>
+    </string-array>
+    <string-array name="amumu">
+        <item>Amumu</item>
+        <item>Amumu</item>
+        <item>Amumu</item>
+        <item>Amumu</item>
+        <item>Amumu</item>
+    </string-array>
+    <string-array name="anivia">
+        <item>Anivia</item>
+        <item>Anivia</item>
+        <item>Anivia</item>
+        <item>Anivia</item>
+        <item>Anivia</item>
+    </string-array>
+    <string-array name="annie">
+        <item>Annie</item>
+        <item>Annie</item>
+        <item>Annie</item>
+        <item>Annie</item>
+        <item>Annie</item>
+    </string-array>
+    <string-array name="ashe">
+        <item>Ashe</item>
+        <item>Ashe</item>
+        <item>Ashe</item>
+        <item>Ashe</item>
+        <item>Ashe</item>
+    </string-array>
+    <string-array name="aurelionsol">
+        <item>Aurelion Sol</item>
+        <item>Aurelion Sol</item>
+        <item>Aurelion Sol</item>
+        <item>Aurelion Sol</item>
+        <item>Aurelion Sol</item>
+    </string-array>
+    <string-array name="azir">
+        <item>Azir</item>
+        <item>Azir</item>
+        <item>Azir</item>
+        <item>Azir</item>
+        <item>Azir</item>
+    </string-array>
+    <string-array name="bard">
+        <item>Bard</item>
+        <item>Bard</item>
+        <item>Bard</item>
+        <item>Bard</item>
+        <item>Bard</item>
+    </string-array>
+    <string-array name="blitzcrank">
+        <item>Blitzcrank</item>
+        <item>Blitzcrank</item>
+        <item>Blitzcrank</item>
+        <item>Blitzcrank</item>
+        <item>Blitzcrank</item>
+    </string-array>
+    <string-array name="brand">
+        <item>Brand</item>
+        <item>Brand</item>
+        <item>Brand</item>
+        <item>Brand</item>
+        <item>Brand</item>
+    </string-array>
+    <string-array name="braum">
+        <item>Braum</item>
+        <item>Braum</item>
+        <item>Braum</item>
+        <item>Braum</item>
+        <item>Braum</item>
+    </string-array>
+    <string-array name="caitlyn">
+        <item>Caitlyn</item>
+        <item>Caitlyn</item>
+        <item>Caitlyn</item>
+        <item>Caitlyn</item>
+        <item>Caitlyn</item>
+    </string-array>
+    <string-array name="camille">
+        <item>Camille</item>
+        <item>Camille</item>
+        <item>Camille</item>
+        <item>Camille</item>
+        <item>Camille</item>
+    </string-array>
+    <string-array name="cassiopeia">
+        <item>Cassiopeia</item>
+        <item>Cassiopeia</item>
+        <item>Cassiopeia</item>
+        <item>Cassiopeia</item>
+        <item>Cassiopeia</item>
+    </string-array>
+    <string-array name="chogath">
+        <item>Cho'Gath</item>
+        <item>Cho'Gath</item>
+        <item>Cho'Gath</item>
+        <item>Cho'Gath</item>
+        <item>Cho'Gath</item>
+    </string-array>
+    <string-array name="corki">
+        <item>Corki</item>
+        <item>Corki</item>
+        <item>Corki</item>
+        <item>Corki</item>
+        <item>Corki</item>
+    </string-array>
+    <string-array name="darius">
+        <item>Darius</item>
+        <item>Darius</item>
+        <item>Darius</item>
+        <item>Darius</item>
+        <item>Darius</item>
+    </string-array>
+    <string-array name="diana">
+        <item>Diana</item>
+        <item>Diana</item>
+        <item>Diana</item>
+        <item>Diana</item>
+        <item>Diana</item>
+    </string-array>
+    <string-array name="drmundo">
+        <item>Dr.Mundo</item>
+        <item>Dr.Mundo</item>
+        <item>Dr.Mundo</item>
+        <item>Dr.Mundo</item>
+        <item>Dr.Mundo</item>
+    </string-array>
+    <string-array name="draven">
+        <item>Draven</item>
+        <item>Draven</item>
+        <item>Draven</item>
+        <item>Draven</item>
+        <item>Draven</item>
+    </string-array>
+    <string-array name="ekko">
+        <item>Ekko</item>
+        <item>Ekko</item>
+        <item>Ekko</item>
+        <item>Ekko</item>
+        <item>Ekko</item>
+    </string-array>
+    <string-array name="elise">
+        <item>Elise</item>
+        <item>Elise</item>
+        <item>Elise</item>
+        <item>Elise</item>
+        <item>Elise</item>
+    </string-array>
+    <string-array name="evelynn">
+        <item>Evelynn</item>
+        <item>Evelynn</item>
+        <item>Evelynn</item>
+        <item>Evelynn</item>
+        <item>Evelynn</item>
+    </string-array>
+    <string-array name="ezreal">
+        <item>Ezreal</item>
+        <item>Ezreal</item>
+        <item>Ezreal</item>
+        <item>Ezreal</item>
+        <item>Ezreal</item>
+    </string-array>
+    <string-array name="fiddlesticks">
+        <item>Fiddlesticks</item>
+        <item>Fiddlesticks</item>
+        <item>Fiddlesticks</item>
+        <item>Fiddlesticks</item>
+        <item>Fiddlesticks</item>
+    </string-array>
+    <string-array name="fiora">
+        <item>Fiora</item>
+        <item>Fiora</item>
+        <item>Fiora</item>
+        <item>Fiora</item>
+        <item>Fiora</item>
+    </string-array>
+    <string-array name="fizz">
+        <item>Fizz</item>
+        <item>Fizz</item>
+        <item>Fizz</item>
+        <item>Fizz</item>
+        <item>Fizz</item>
+    </string-array>
+    <string-array name="galio">
+        <item>Galio</item>
+        <item>Galio</item>
+        <item>Galio</item>
+        <item>Galio</item>
+        <item>Galio</item>
+    </string-array>
+    <string-array name="gangplank">
+        <item>Gangplank</item>
+        <item>Gangplank</item>
+        <item>Gangplank</item>
+        <item>Gangplank</item>
+        <item>Gangplank</item>
+    </string-array>
+    <string-array name="garen">
+        <item>Garen</item>
+        <item>Garen</item>
+        <item>Garen</item>
+        <item>Garen</item>
+        <item>Garen</item>
+    </string-array>
+    <string-array name="gnar">
+        <item>Gnar</item>
+        <item>Gnar</item>
+        <item>Gnar</item>
+        <item>Gnar</item>
+        <item>Gnar</item>
+    </string-array>
+    <string-array name="gragas">
+        <item>Gragas</item>
+        <item>Gragas</item>
+        <item>Gragas</item>
+        <item>Gragas</item>
+        <item>Gragas</item>
+    </string-array>
+    <string-array name="graves">
+        <item>Graves</item>
+        <item>Graves</item>
+        <item>Graves</item>
+        <item>Graves</item>
+        <item>Graves</item>
+    </string-array>
+    <string-array name="hecarim">
+        <item>Hecarim</item>
+        <item>Hecarim</item>
+        <item>Hecarim</item>
+        <item>Hecarim</item>
+        <item>Hecarim</item>
+    </string-array>
+    <string-array name="heimerdinger">
+        <item>Heimerdinger</item>
+        <item>Heimerdinger</item>
+        <item>Heimerdinger</item>
+        <item>Heimerdinger</item>
+        <item>Heimerdinger</item>
+    </string-array>
+    <string-array name="illaoi">
+        <item>Illaoi</item>
+        <item>Illaoi</item>
+        <item>Illaoi</item>
+        <item>Illaoi</item>
+        <item>Illaoi</item>
+    </string-array>
+    <string-array name="irelia">
+        <item>Irelia</item>
+        <item>Irelia</item>
+        <item>Irelia</item>
+        <item>Irelia</item>
+        <item>Irelia</item>
+    </string-array>
+    <string-array name="ivern">
+        <item>Ivern</item>
+        <item>Ivern</item>
+        <item>Ivern</item>
+        <item>Ivern</item>
+        <item>Ivern</item>
+    </string-array>
+    <string-array name="janna">
+        <item>Janna</item>
+        <item>Janna</item>
+        <item>Janna</item>
+        <item>Janna</item>
+        <item>Janna</item>
+    </string-array>
+    <string-array name="jarvaniv">
+        <item>Jarvan IV</item>
+        <item>Jarvan IV</item>
+        <item>Jarvan IV</item>
+        <item>Jarvan IV</item>
+        <item>Jarvan IV</item>
+    </string-array>
+    <string-array name="jax">
+        <item>Jax</item>
+        <item>Jax</item>
+        <item>Jax</item>
+        <item>Jax</item>
+        <item>Jax</item>
+    </string-array>
+    <string-array name="jayce">
+        <item>Jayce</item>
+        <item>Jayce</item>
+        <item>Jayce</item>
+        <item>Jayce</item>
+        <item>Jayce</item>
+    </string-array>
+    <string-array name="jhin">
+        <item>Jhin</item>
+        <item>Jhin</item>
+        <item>Jhin</item>
+        <item>Jhin</item>
+        <item>Jhin</item>
+    </string-array>
+    <string-array name="jinx">
+        <item>Jinx</item>
+        <item>Jinx</item>
+        <item>Jinx</item>
+        <item>Jinx</item>
+        <item>Jinx</item>
+    </string-array>
+    <string-array name="kaisa">
+        <item>Jinx</item>
+        <item>Jinx</item>
+        <item>Jinx</item>
+        <item>Jinx</item>
+        <item>Jinx</item>
+    </string-array>
+    <string-array name="kalista">
+        <item>Kalista</item>
+        <item>Kalista</item>
+        <item>Kalista</item>
+        <item>Kalista</item>
+        <item>Kalista</item>
+    </string-array>
+    <string-array name="karma">
+        <item>Karma</item>
+        <item>Karma</item>
+        <item>Karma</item>
+        <item>Karma</item>
+        <item>Karma</item>
+    </string-array>
+    <string-array name="karthus">
+        <item>Karthus</item>
+        <item>Karthus</item>
+        <item>Karthus</item>
+        <item>Karthus</item>
+        <item>Karthus</item>
+    </string-array>
+    <string-array name="kassadin">
+        <item>Kassadin</item>
+        <item>Kassadin</item>
+        <item>Kassadin</item>
+        <item>Kassadin</item>
+        <item>Kassadin</item>
+    </string-array>
+    <string-array name="katarina">
+        <item>Katarina</item>
+        <item>Katarina</item>
+        <item>Katarina</item>
+        <item>Katarina</item>
+        <item>Katarina</item>
+    </string-array>
+    <string-array name="kayle">
+        <item>Kayle</item>
+        <item>Kayle</item>
+        <item>Kayle</item>
+        <item>Kayle</item>
+        <item>Kayle</item>
+    </string-array>
+    <string-array name="kayn">
+        <item>Kayn</item>
+        <item>Kayn</item>
+        <item>Kayn</item>
+        <item>Kayn</item>
+        <item>Kayn</item>
+    </string-array>
+    <string-array name="kennen">
+        <item>Kennen</item>
+        <item>Kennen</item>
+        <item>Kennen</item>
+        <item>Kennen</item>
+        <item>Kennen</item>
+    </string-array>
+    <string-array name="khazix">
+        <item>Kha'Zix</item>
+        <item>Kha'Zix</item>
+        <item>Kha'Zix</item>
+        <item>Kha'Zix</item>
+        <item>Kha'Zix</item>
+    </string-array>
+    <string-array name="kindred">
+        <item>Kindred</item>
+        <item>Kindred</item>
+        <item>Kindred</item>
+        <item>Kindred</item>
+        <item>Kindred</item>
+    </string-array>
+    <string-array name="kled">
+        <item>Kled</item>
+        <item>Kled</item>
+        <item>Kled</item>
+        <item>Kled</item>
+        <item>Kled</item>
+    </string-array>
+    <string-array name="kogmaw">
+        <item>Kog'Maw</item>
+        <item>Kog'Maw</item>
+        <item>Kog'Maw</item>
+        <item>Kog'Maw</item>
+        <item>Kog'Maw</item>
+    </string-array>
+    <string-array name="leblanc">
+        <item>LeBlanc</item>
+        <item>LeBlanc</item>
+        <item>LeBlanc</item>
+        <item>LeBlanc</item>
+        <item>LeBlanc</item>
+    </string-array>
+    <string-array name="leesin">
+        <item>Lee Sin</item>
+        <item>Lee Sin</item>
+        <item>Lee Sin</item>
+        <item>Lee Sin</item>
+        <item>Lee Sin</item>
+    </string-array>
+    <string-array name="leona">
+        <item>Leona</item>
+        <item>Leona</item>
+        <item>Leona</item>
+        <item>Leona</item>
+        <item>Leona</item>
+    </string-array>
+    <string-array name="lissandra">
+        <item>Lissandra</item>
+        <item>Lissandra</item>
+        <item>Lissandra</item>
+        <item>Lissandra</item>
+        <item>Lissandra</item>
+    </string-array>
+    <string-array name="lucian">
+        <item>Lucian</item>
+        <item>Lucian</item>
+        <item>Lucian</item>
+        <item>Lucian</item>
+        <item>Lucian</item>
+    </string-array>
+    <string-array name="lulu">
+        <item>Lulu</item>
+        <item>Lulu</item>
+        <item>Lulu</item>
+        <item>Lulu</item>
+        <item>Lulu</item>
+    </string-array>
+    <string-array name="lux">
+        <item>Lux</item>
+        <item>Lux</item>
+        <item>Lux</item>
+        <item>Lux</item>
+        <item>Lux</item>
+    </string-array>
+    <string-array name="malphite">
+        <item>Malphite</item>
+        <item>Malphite</item>
+        <item>Malphite</item>
+        <item>Malphite</item>
+        <item>Malphite</item>
+    </string-array>
+    <string-array name="malzahar">
+        <item>Malzahar</item>
+        <item>Malzahar</item>
+        <item>Malzahar</item>
+        <item>Malzahar</item>
+        <item>Malzahar</item>
+    </string-array>
+    <string-array name="maokai">
+        <item>Maokai</item>
+        <item>Maokai</item>
+        <item>Maokai</item>
+        <item>Maokai</item>
+        <item>Maokai</item>
+    </string-array>
+    <string-array name="masteryi">
+        <item>Master Yi</item>
+        <item>Master Yi</item>
+        <item>Master Yi</item>
+        <item>Master Yi</item>
+        <item>Master Yi</item>
+    </string-array>
+    <string-array name="missfortune">
+        <item>Miss Fortune</item>
+        <item>Miss Fortune</item>
+        <item>Miss Fortune</item>
+        <item>Miss Fortune</item>
+        <item>Miss Fortune</item>
+    </string-array>
+    <string-array name="mordekaiser">
+        <item>Mordekaiser</item>
+        <item>Mordekaiser</item>
+        <item>Mordekaiser</item>
+        <item>Mordekaiser</item>
+        <item>Mordekaiser</item>
+    </string-array>
+    <string-array name="morgana">
+        <item>Morgana</item>
+        <item>Morgana</item>
+        <item>Morgana</item>
+        <item>Morgana</item>
+        <item>Morgana</item>
+    </string-array>
+    <string-array name="nami">
+        <item>Nami</item>
+        <item>Nami</item>
+        <item>Nami</item>
+        <item>Nami</item>
+        <item>Nami</item>
+    </string-array>
+    <string-array name="nasus">
+        <item>Nasus</item>
+        <item>Nasus</item>
+        <item>Nasus</item>
+        <item>Nasus</item>
+        <item>Nasus</item>
+    </string-array>
+    <string-array name="nautilus">
+        <item>Nautilus</item>
+        <item>Nautilus</item>
+        <item>Nautilus</item>
+        <item>Nautilus</item>
+        <item>Nautilus</item>
+    </string-array>
+    <string-array name="nidalee">
+        <item>Nidalee</item>
+        <item>Nidalee</item>
+        <item>Nidalee</item>
+        <item>Nidalee</item>
+        <item>Nidalee</item>
+    </string-array>
+    <string-array name="nocturne">
+        <item>Nocturne</item>
+        <item>Nocturne</item>
+        <item>Nocturne</item>
+        <item>Nocturne</item>
+        <item>Nocturne</item>
+    </string-array>
+    <string-array name="nunu">
+        <item>Nunu</item>
+        <item>Nunu</item>
+        <item>Nunu</item>
+        <item>Nunu</item>
+        <item>Nunu</item>
+    </string-array>
+    <string-array name="olaf">
+        <item>Olaf</item>
+        <item>Olaf</item>
+        <item>Olaf</item>
+        <item>Olaf</item>
+        <item>Olaf</item>
+    </string-array>
+    <string-array name="orianna">
+        <item>Orianna</item>
+        <item>Orianna</item>
+        <item>Orianna</item>
+        <item>Orianna</item>
+        <item>Orianna</item>
+    </string-array>
+    <string-array name="ornn">
+        <item>Ornn</item>
+        <item>Ornn</item>
+        <item>Ornn</item>
+        <item>Ornn</item>
+        <item>Ornn</item>
+    </string-array>
+    <string-array name="pantheon">
+        <item>Pantheon</item>
+        <item>Pantheon</item>
+        <item>Pantheon</item>
+        <item>Pantheon</item>
+        <item>Pantheon</item>
+    </string-array>
+    <string-array name="poppy">
+        <item>Poppy</item>
+        <item>Poppy</item>
+        <item>Poppy</item>
+        <item>Poppy</item>
+        <item>Poppy</item>
+    </string-array>
+    <string-array name="quinn">
+        <item>Quinn</item>
+        <item>Quinn</item>
+        <item>Quinn</item>
+        <item>Quinn</item>
+        <item>Quinn</item>
+    </string-array>
+    <string-array name="rakan">
+        <item>Rakan</item>
+        <item>Rakan</item>
+        <item>Rakan</item>
+        <item>Rakan</item>
+        <item>Rakan</item>
+    </string-array>
+    <string-array name="rammus">
+        <item>Rammus</item>
+        <item>Rammus</item>
+        <item>Rammus</item>
+        <item>Rammus</item>
+        <item>Rammus</item>
+    </string-array>
+    <string-array name="reksai">
+        <item>Rek'Sai</item>
+        <item>Rek'Sai</item>
+        <item>Rek'Sai</item>
+        <item>Rek'Sai</item>
+        <item>Rek'Sai</item>
+    </string-array>
+    <string-array name="renekton">
+        <item>Renekton</item>
+        <item>Renekton</item>
+        <item>Renekton</item>
+        <item>Renekton</item>
+        <item>Renekton</item>
+    </string-array>
+    <string-array name="rengar">
+        <item>Rengar</item>
+        <item>Rengar</item>
+        <item>Rengar</item>
+        <item>Rengar</item>
+        <item>Rengar</item>
+    </string-array>
+    <string-array name="riven">
+        <item>Riven</item>
+        <item>Riven</item>
+        <item>Riven</item>
+        <item>Riven</item>
+        <item>Riven</item>
+    </string-array>
+    <string-array name="rumble">
+        <item>Rumble</item>
+        <item>Rumble</item>
+        <item>Rumble</item>
+        <item>Rumble</item>
+        <item>Rumble</item>
+    </string-array>
+    <string-array name="ryze">
+        <item>Ryze</item>
+        <item>Ryze</item>
+        <item>Ryze</item>
+        <item>Ryze</item>
+        <item>Ryze</item>
+    </string-array>
+    <string-array name="sejuani">
+        <item>Sejuani</item>
+        <item>Sejuani</item>
+        <item>Sejuani</item>
+        <item>Sejuani</item>
+        <item>Sejuani</item>
+    </string-array>
+    <string-array name="shaco">
+        <item>Shaco</item>
+        <item>Shaco</item>
+        <item>Shaco</item>
+        <item>Shaco</item>
+        <item>Shaco</item>
+    </string-array>
+    <string-array name="shen">
+        <item>Shen</item>
+        <item>Shen</item>
+        <item>Shen</item>
+        <item>Shen</item>
+        <item>Shen</item>
+    </string-array>
+    <string-array name="shyvana">
+        <item>Shyvana</item>
+        <item>Shyvana</item>
+        <item>Shyvana</item>
+        <item>Shyvana</item>
+        <item>Shyvana</item>
+    </string-array>
+    <string-array name="singed">
+        <item>Singed</item>
+        <item>Singed</item>
+        <item>Singed</item>
+        <item>Singed</item>
+        <item>Singed</item>
+    </string-array>
+    <string-array name="sion">
+        <item>Sion</item>
+        <item>Sion</item>
+        <item>Sion</item>
+        <item>Sion</item>
+        <item>Sion</item>
+    </string-array>
+    <string-array name="sivir">
+        <item>Sivir</item>
+        <item>Sivir</item>
+        <item>Sivir</item>
+        <item>Sivir</item>
+        <item>Sivir</item>
+    </string-array>
+    <string-array name="skarner">
+        <item>Skarner</item>
+        <item>Skarner</item>
+        <item>Skarner</item>
+        <item>Skarner</item>
+        <item>Skarner</item>
+    </string-array>
+    <string-array name="sona">
+        <item>Sona</item>
+        <item>Sona</item>
+        <item>Sona</item>
+        <item>Sona</item>
+        <item>Sona</item>
+    </string-array>
+    <string-array name="soraka">
+        <item>Soraka</item>
+        <item>Soraka</item>
+        <item>Soraka</item>
+        <item>Soraka</item>
+        <item>Soraka</item>
+    </string-array>
+    <string-array name="swain">
+        <item>Swain</item>
+        <item>Swain</item>
+        <item>Swain</item>
+        <item>Swain</item>
+        <item>Swain</item>
+    </string-array>
+    <string-array name="syndra">
+        <item>Syndra</item>
+        <item>Syndra</item>
+        <item>Syndra</item>
+        <item>Syndra</item>
+        <item>Syndra</item>
+    </string-array>
+    <string-array name="tahmkench">
+        <item>Tahm Kench</item>
+        <item>Tahm Kench</item>
+        <item>Tahm Kench</item>
+        <item>Tahm Kench</item>
+        <item>Tahm Kench</item>
+    </string-array>
+    <string-array name="taliyah">
+        <item>Taliyah</item>
+        <item>Taliyah</item>
+        <item>Taliyah</item>
+        <item>Taliyah</item>
+        <item>Taliyah</item>
+    </string-array>
+    <string-array name="talon">
+        <item>Talon</item>
+        <item>Talon</item>
+        <item>Talon</item>
+        <item>Talon</item>
+        <item>Talon</item>
+    </string-array>
+    <string-array name="taric">
+        <item>Taric</item>
+        <item>Taric</item>
+        <item>Taric</item>
+        <item>Taric</item>
+        <item>Taric</item>
+    </string-array>
+    <string-array name="teemo">
+        <item>Teemo</item>
+        <item>Teemo</item>
+        <item>Teemo</item>
+        <item>Teemo</item>
+        <item>Teemo</item>
+    </string-array>
+    <string-array name="thresh">
+        <item>Thresh</item>
+        <item>Thresh</item>
+        <item>Thresh</item>
+        <item>Thresh</item>
+        <item>Thresh</item>
+    </string-array>
+    <string-array name="tristana">
+        <item>Tristana</item>
+        <item>Tristana</item>
+        <item>Tristana</item>
+        <item>Tristana</item>
+        <item>Tristana</item>
+    </string-array>
+    <string-array name="trundle">
+        <item>Trundle</item>
+        <item>Trundle</item>
+        <item>Trundle</item>
+        <item>Trundle</item>
+        <item>Trundle</item>
+    </string-array>
+    <string-array name="tryndamere">
+        <item>Tryndamere</item>
+        <item>Tryndamere</item>
+        <item>Tryndamere</item>
+        <item>Tryndamere</item>
+        <item>Tryndamere</item>
+    </string-array>
+    <string-array name="twistedfate">
+        <item>Twisted Fate</item>
+        <item>Twisted Fate</item>
+        <item>Twisted Fate</item>
+        <item>Twisted Fate</item>
+        <item>Twisted Fate</item>
+    </string-array>
+    <string-array name="twitch">
+        <item>Twitch</item>
+        <item>Twitch</item>
+        <item>Twitch</item>
+        <item>Twitch</item>
+        <item>Twitch</item>
+    </string-array>
+    <string-array name="udyr">
+        <item>Udyr</item>
+        <item>Udyr</item>
+        <item>Udyr</item>
+        <item>Udyr</item>
+        <item>Udyr</item>
+    </string-array>
+    <string-array name="urgot">
+        <item>Urgot</item>
+        <item>Urgot</item>
+        <item>Urgot</item>
+        <item>Urgot</item>
+        <item>Urgot</item>
+    </string-array>
+    <string-array name="varus">
+        <item>Varus</item>
+        <item>Varus</item>
+        <item>Varus</item>
+        <item>Varus</item>
+        <item>Varus</item>
+    </string-array>
+    <string-array name="vayne">
+        <item>Vayne</item>
+        <item>Vayne</item>
+        <item>Vayne</item>
+        <item>Vayne</item>
+        <item>Vayne</item>
+    </string-array>
+    <string-array name="veigar">
+        <item>Veigar</item>
+        <item>Veigar</item>
+        <item>Veigar</item>
+        <item>Veigar</item>
+        <item>Veigar</item>
+    </string-array>
+    <string-array name="velkoz">
+        <item>Vel'Koz</item>
+        <item>Vel'Koz</item>
+        <item>Vel'Koz</item>
+        <item>Vel'Koz</item>
+        <item>Vel'Koz</item>
+    </string-array>
+    <string-array name="vi">
+        <item>Vi</item>
+        <item>Vi</item>
+        <item>Vi</item>
+        <item>Vi</item>
+        <item>Vi</item>
+    </string-array>
+    <string-array name="viktor">
+        <item>Viktor</item>
+        <item>Viktor</item>
+        <item>Viktor</item>
+        <item>Viktor</item>
+        <item>Viktor</item>
+    </string-array>
+    <string-array name="vladimir">
+        <item>Vladimir</item>
+        <item>Vladimir</item>
+        <item>Vladimir</item>
+        <item>Vladimir</item>
+        <item>Vladimir</item>
+    </string-array>
+    <string-array name="volibear">
+        <item>Volibear</item>
+        <item>Volibear</item>
+        <item>Volibear</item>
+        <item>Volibear</item>
+        <item>Volibear</item>
+    </string-array>
+    <string-array name="warwick">
+        <item>Warwick</item>
+        <item>Warwick</item>
+        <item>Warwick</item>
+        <item>Warwick</item>
+        <item>Warwick</item>
+    </string-array>
+    <string-array name="wukong">
+        <item>Wukong</item>
+        <item>Wukong</item>
+        <item>Wukong</item>
+        <item>Wukong</item>
+        <item>Wukong</item>
+    </string-array>
+    <string-array name="xayah">
+        <item>Xayah</item>
+        <item>Xayah</item>
+        <item>Xayah</item>
+        <item>Xayah</item>
+        <item>Xayah</item>
+    </string-array>
+    <string-array name="xerath">
+        <item>Xerath</item>
+        <item>Xerath</item>
+        <item>Xerath</item>
+        <item>Xerath</item>
+        <item>Xerath</item>
+    </string-array>
+    <string-array name="xinzhao">
+        <item>Xin Zhao</item>
+        <item>Xin Zhao</item>
+        <item>Xin Zhao</item>
+        <item>Xin Zhao</item>
+        <item>Xin Zhao</item>
+    </string-array>
+    <string-array name="yasuo">
+        <item>Yasuo</item>
+        <item>Yasuo</item>
+        <item>Yasuo</item>
+        <item>Yasuo</item>
+        <item>Yasuo</item>
+    </string-array>
+    <string-array name="yorick">
+        <item>Yorick</item>
+        <item>Yorick</item>
+        <item>Yorick</item>
+        <item>Yorick</item>
+        <item>Yorick</item>
+    </string-array>
+    <string-array name="zac">
+        <item>Zac</item>
+        <item>Zac</item>
+        <item>Zac</item>
+        <item>Zac</item>
+        <item>Zac</item>
+    </string-array>
+    <string-array name="zed">
+        <item>Zed</item>
+        <item>Zed</item>
+        <item>Zed</item>
+        <item>Zed</item>
+        <item>Zed</item>
+    </string-array>
+    <string-array name="ziggs">
+        <item>Ziggs</item>
+        <item>Ziggs</item>
+        <item>Ziggs</item>
+        <item>Ziggs</item>
+        <item>Ziggs</item>
+    </string-array>
+    <string-array name="zilean">
+        <item>Zilean</item>
+        <item>Zilean</item>
+        <item>Zilean</item>
+        <item>Zilean</item>
+        <item>Zilean</item>
+    </string-array>
+    <string-array name="zoe">
+        <item>Zoe</item>
+        <item>Zoe</item>
+        <item>Zoe</item>
+        <item>Zoe</item>
+        <item>Zoe</item>
+    </string-array>
+    <string-array name="zyra">
+        <item>Zyra</item>
+        <item>Zyra</item>
+        <item>Zyra</item>
+        <item>Zyra</item>
+        <item>Zyra</item>
+    </string-array>
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/llContainer"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context=".ItemAdapter">
+
+    <ImageView
+        android:id="@+id/ivItem"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.1"
+        app:srcCompat="@drawable/abyssalmask" />
+
+    <TextView
+        android:id="@+id/tvItem"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.8"
+        android:text="Abyssal Mask"
+        android:textColor="@android:color/black"
+        android:textSize="26sp" />
+
+    <ImageView
+        android:id="@+id/ivFav"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.1"
+        android:src="@drawable/star" />
+</LinearLayout>
